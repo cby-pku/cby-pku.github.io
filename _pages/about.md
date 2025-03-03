@@ -100,6 +100,7 @@ Experiences
 
 Selected Awards
 ======
+- 2025: The Sixth Yuanpei Young Scholar Award
 - 2024: SenseTime Scholarship (25/year in China, 1/25, ¥20000 RMB)
 - 2024: Yicong Huang Scholarship (research innovation award, ¥8000 RMB)
 - 2024: Research Excellence Award (¥5000 RMB)
