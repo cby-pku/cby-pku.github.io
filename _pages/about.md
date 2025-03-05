@@ -49,7 +49,7 @@ Publications
   📄[[Paper](https://arxiv.org/abs/2406.06144)]
 - **(Under Review)Efficient Model-agnostic Alignment via Bayesian Persuasion**
   <br/>
-  📄[[Paper](https://arxiv.org/abs/2406.06144)]
+  📄[[Paper](https://arxiv.org/abs/2405.18718)]
   
 - **(Under Review)PKU-SafeRLHF: A Safety Alignment Preference Dataset for Llama Family Models**
   <br/>
