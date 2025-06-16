@@ -60,6 +60,20 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 # Publications
 <small><sup>*</sup> denotes equal contribution, <sup>α</sup> denotes core contributors, and <sup>†</sup> denotes corresponding author</small>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/papers/intermt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback](https://arxiv.org/abs/2505.23950)
+
+**Boyuan Chen**<sup>*</sup>, Donghai Hong<sup>*</sup>, Jiaming Ji<sup>*</sup>, Jiacheng Zheng, Bowen Dong, Jiayi Zhou, Kaile Wang, Juntao Dai, Xuyao Wang, Wenqi Chen, Qirui Zheng, Wenxin Li, Sirui Han, Yike Guo, and Yaodong Yang<sup>†</sup>
+
+[[**Project**]](https://pku-intermt.github.io/)
+[[**Paper**]](https://arxiv.org/abs/2505.23950) 
+<strong><span class='show_paper_citations' data='o23sDqkAAAAJ:roLk4NBRz8UC'></span></strong>
+- This paper presents InterMT, the first preference dataset for multi-turn multimodal interaction, featuring 15.6k prompts and 32.4k human-labeled preference pairs, with a novel agentic workflow leveraging tool-augmented MLLMs to construct multi-turn QA instances and assess model capabilities through InterMT-Bench.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/papers/resist.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -68,7 +82,8 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 Jiaming Ji<sup>*</sup>, Kaile Wang<sup>*</sup>, Tianyi Qiu<sup>*</sup>, **Boyuan Chen**<sup>*</sup>, Jiayi Zhou<sup>*</sup>, Changye Li, Hantao Lou, Juntao Dai, Yunhuai Liu, and Yaodong Yang<sup>†</sup>
 
 [[**Project**]](https://pku-lm-resist-alignment.github.io/)
-[[**Paper**]](https://arxiv.org/abs/2406.06144) <strong><span class='show_paper_citations' data='o23sDqkAAAAJ:IjCSPb-OGe4C'></span></strong>
+[[**Paper**]](https://arxiv.org/abs/2406.06144) 
+<strong><span class='show_paper_citations' data='o23sDqkAAAAJ:IjCSPb-OGe4C'></span></strong>
 - This paper makes the *first* exploration of LLM alignment *elasticity* from both theoretical and empirical perspectives, revealing that models tend to revert to pre-training behavior distribution after fine-tuning, with this elasticity *positively correlating* with model size and pre-training data scale.
 </div>
 </div>
@@ -88,7 +103,39 @@ Jiaming Ji<sup>*α</sup>, Donghai Hong<sup>*α</sup>, Borong Zhang<sup>α</sup>,
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Oral</div><img src='images/papers/aligner.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Aligner: Achieving Efficient Alignment through Learned Correction](https://arxiv.org/abs/2402.02416)
+
+Jiaming Ji<sup>*</sup>, **Boyuan Chen**<sup>*</sup>, Hantao Lou, Donghai Hong, Borong Zhang, Xuehai Pan, Juntao Dai, and Yaodong Yang<sup>†</sup>
+
+<strong><span style="color: #DC143C; font-weight: bold;">NeurIPS 2024 Oral (Top 0.45%)</span></strong>
+
+
+[[**Project**]](https://pku-aligner.github.io/)
+[[**Paper**]](https://arxiv.org/abs/2402.02416)
+[[**Media**]](https://mp.weixin.qq.com/s/O9PP4Oc_Ee3R_HxKyd31Qg)
+<strong><span class='show_paper_citations' data='o23sDqkAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+- We propose Aligner, a novel and simple alignment paradigm that learns correctional residuals between preferred and dispreferred answers using a small model, achieving comparable performance with significantly reduced computational costs while being model-agnostic and plug-and-play.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/papers/beavertails.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[BEAVERTAILS: Towards Improved Safety Alignment of LLM via a Human-Preference Dataset](https://openreview.net/pdf?id=g0QovXbFw3)
+
+Jiaming Ji<sup>*</sup>, Mickel Liu<sup>*</sup>, Juntao Dai<sup>*</sup>, Xuehai Pan, Chi Zhang, Ce Bian, **Boyuan Chen**, Ruiyang Sun, Yizhou Wang, Yaodong Yang<sup>†</sup>
+
+
+[[**Project**]](https://sites.google.com/view/pku-beavertails)
+[[**Paper**]](https://openreview.net/pdf?id=g0QovXbFw3)
+<strong><span class='show_paper_citations' data='o23sDqkAAAAJ:u5HHmVD_uO8C'></span></strong>
+- We introduce BEAVERTAILS, a large-scale dataset with 333,963 QA pairs and 361,903 expert comparisons, uniquely separating helpfulness and harmlessness annotations to advance LLM safety alignment research.
+</div>
+</div>
 
 # Honors and Awards
 - *2025* The Sixth Yuanpei Young Scholar Award
