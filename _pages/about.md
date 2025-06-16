@@ -148,9 +148,10 @@ You may head for my [Google Scholar profile](https://scholar.google.com/citation
 Jiaming Ji<sup>*</sup>, Jiayi Zhou<sup>*</sup>, Hantao Lou<sup>*</sup>, **Boyuan Chen**<sup>*</sup>, Donghai Hong<sup>*</sup>, Xuyao Wang, Wenqi Chen, Kaile Wang, Rui Pan, Jiahao Li, Mohan Wang, Josef Dai, Tianyi Qiu, Hua Xu, Dong Li, Weipeng Chen, Jun Song, Bo Zheng, Yaodong Yang<sup>†</sup>
 
 [[**Paper**]](https://arxiv.org/abs/2412.15838)
-[[**Code**]](https://github.com/PKU-Alignment/align-anything)
+[[**Code**]](https://github.com/PKU-Alignment/align-anything) 
 [[**Data**]](https://huggingface.co/datasets/PKU-Alignment/align-anything)
 <strong><span class='show_paper_citations' data='o23sDqkAAAAJ:Y0pCki6q_DkC'></span></strong>
+<strong><a href="https://github.com/PKU-Alignment/align-anything"><img src="https://img.shields.io/github/stars/PKU-Alignment/align-anything.svg?style=flat&logo=github&color=blue" alt="GitHub Repo stars"></a></strong>
 - Motivated by the challenge of achieving all-modality human preference alignment, particularly the limitations of binary preferences in accurately reflecting human preferences, we introduce the **align-anything**: **Data**: align-anything-200k, which covers text, image, audio, video modalities, and 8+ specific subtasks, annotated with preference and language feedback; **Algorithm**: improving all-modality alignment by learning from language feedback; **Evaluation**: encompassing all-modality understanding and generation.
 </div>
 </div>
