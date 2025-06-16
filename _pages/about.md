@@ -57,6 +57,7 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 - *2023.11*: &nbsp;🚀 We release [AI Alignment Survey](https://arxiv.org/abs/2310.19852) and [Alignment Resource Website](https://alignmentsurvey.com/). Welcome to further discussion!
 </details>
 
+<!-- # TODO Add undergraduate research statement -->
 # Publications
 <small><sup>*</sup> denotes equal contribution, <sup>α</sup> denotes core contributors, and <sup>†</sup> denotes corresponding author</small>
 
@@ -69,7 +70,7 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 
 [[**Project**]](https://pku-intermt.github.io/)
 [[**Paper**]](https://arxiv.org/abs/2505.23950) 
-<strong><span class='show_paper_citations' data='o23sDqkAAAAJ:roLk4NBRz8UC'></span></strong>
+<!-- <strong><span class='show_paper_citations' data='o23sDqkAAAAJ:roLk4NBRz8UC'></span></strong> -->
 - This paper presents InterMT, the first preference dataset for multi-turn multimodal interaction, featuring 15.6k prompts and 32.4k human-labeled preference pairs, with a novel agentic workflow leveraging tool-augmented MLLMs to construct multi-turn QA instances and assess model capabilities through InterMT-Bench.
 </div>
 </div>
@@ -129,7 +130,6 @@ Jiaming Ji<sup>*</sup>, **Boyuan Chen**<sup>*</sup>, Hantao Lou, Donghai Hong, B
 
 Jiaming Ji<sup>*</sup>, Mickel Liu<sup>*</sup>, Juntao Dai<sup>*</sup>, Xuehai Pan, Chi Zhang, Ce Bian, **Boyuan Chen**, Ruiyang Sun, Yizhou Wang, Yaodong Yang<sup>†</sup>
 
-
 [[**Project**]](https://sites.google.com/view/pku-beavertails)
 [[**Paper**]](https://openreview.net/pdf?id=g0QovXbFw3)
 <strong><span class='show_paper_citations' data='o23sDqkAAAAJ:u5HHmVD_uO8C'></span></strong>
@@ -137,9 +137,44 @@ Jiaming Ji<sup>*</sup>, Mickel Liu<sup>*</sup>, Juntao Dai<sup>*</sup>, Xuehai P
 </div>
 </div>
 
+# Selected Preprints
+You may head for my [Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=o23sDqkAAAAJ) to view my other works!
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/papers/alignanything.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Align Anything: Training All-Modality Models to Follow Instructions with Language Feedback](https://arxiv.org/abs/2412.15838)
+
+Jiaming Ji<sup>*</sup>, Jiayi Zhou<sup>*</sup>, Hantao Lou<sup>*</sup>, **Boyuan Chen**<sup>*</sup>, Donghai Hong<sup>*</sup>, Xuyao Wang, Wenqi Chen, Kaile Wang, Rui Pan, Jiahao Li, Mohan Wang, Josef Dai, Tianyi Qiu, Hua Xu, Dong Li, Weipeng Chen, Jun Song, Bo Zheng, Yaodong Yang<sup>†</sup>
+
+[[**Paper**]](https://arxiv.org/abs/2412.15838)
+[[**Code**]](https://github.com/PKU-Alignment/align-anything)
+[[**Data**]](https://huggingface.co/datasets/PKU-Alignment/align-anything)
+<strong><span class='show_paper_citations' data='o23sDqkAAAAJ:Y0pCki6q_DkC'></span></strong>
+- Motivated by the challenge of achieving all-modality human preference alignment, particularly the limitations of binary preferences in accurately reflecting human preferences, we introduce the **align-anything**: **Data**: align-anything-200k, which covers text, image, audio, video modalities, and 8+ specific subtasks, annotated with preference and language feedback; **Algorithm**: improving all-modality alignment by learning from language feedback; **Evaluation**: encompassing all-modality understanding and generation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/papers/alignmentsurvey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AI Alignment: A Comprehensive Survey](https://arxiv.org/abs/2310.19852)
+
+Jiaming Ji<sup>*</sup>, Tianyi Qiu<sup>*</sup>, **Boyuan Chen**<sup>*</sup>, Borong Zhang<sup>*</sup>, Hantao Lou, Kaile Wang, Yawen Duan, Zhonghao He, Jiayi Zhou, Zhaowei Zhang, Fanzhi Zeng, Kwan Yee Ng, Juntao Dai, Xuehai Pan, Aidan O'Gara, Yingshan Lei, Hua Xu, Brian Tse, Jie Fu, Stephen McAleer, Yaodong Yang, Yizhou Wang, Song-Chun Zhu, Yike Guo, Wen Gao
+
+[[**Paper**]](https://arxiv.org/abs/2310.19852)
+[[**Project**]](https://alignmentsurvey.com/)
+<strong><span class='show_paper_citations' data='o23sDqkAAAAJ:u-x6o8ySG0sC'></span></strong>
+- We present a comprehensive survey of AI alignment research, introducing the RICE principles (Robustness, Interpretability, Controllability, and Ethicality) and exploring both forward alignment (preference modeling, RLHF, scalable oversight) and backward alignment (assurance techniques, governance practices) approaches.
+</div>
+</div>
+
+
+
+
 # Honors and Awards
 - *2025* The Sixth Yuanpei Young Scholar Award
-- *2024* SenseTime Scholarship (25/year in China, 1/25, ¥20000 RMB)
+- *2024* <span style="background-color: #FFFF99">SenseTime Scholarship (25/year in China, 1/25, ¥20000 RMB)</span>
 - *2024* Yicong Huang Scholarship (research innovation award, ¥8000 RMB)
 - *2024* Research Excellence Award (¥5000 RMB)
 - *2024* Ching-Ling Soong Future Scholarship (¥5000 RMB)
