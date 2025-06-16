@@ -28,8 +28,7 @@ My answers to the [Hamming question](https://www.cs.virginia.edu/~robins/YouAndY
 </ul> 
 
 I have just started on this long road, and I will leverage my youth and curiosity to seize more opportunities and time for an in-depth exploration of these problems.
-
-
+Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 
 
 
@@ -43,7 +42,7 @@ I have just started on this long road, and I will leverage my youth and curiosit
 # News
 - *2025.06*: &nbsp;🎉 Two papers are accepted by ACL 2025 Main.
 - *2025.05*: &nbsp;🎉 We open-source [InterMT](https://pku-intermt.github.io/), the first multi-turn multimodal understanding and generation human preference dataset. Welcome to discuss and collaborate!
-- *2025.01*: &nbsp;🎉 We release [Align-DS-v](https://huggingface.co/PKU-Alignment/Align-DS-V), the first multimodal strong reasoning model.
+- *2025.01*: &nbsp;🎉 We release [Align-DS-V](https://huggingface.co/PKU-Alignment/Align-DS-V), the first multimodal strong reasoning model.
 
 <details markdown="1">
   <summary><font size="+1"><b>More news</b></font></summary>
@@ -58,19 +57,37 @@ I have just started on this long road, and I will leverage my youth and curiosit
 - *2023.11*: &nbsp;🚀 We release [AI Alignment Survey](https://arxiv.org/abs/2310.19852) and [Alignment Resource Website](https://alignmentsurvey.com/). Welcome to further discussion!
 </details>
 
-# Publications 
+# Publications
+<small><sup>*</sup> denotes equal contribution, <sup>α</sup> denotes core contributors, and <sup>†</sup> denotes corresponding author</small>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/papers/resist.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Language Models Resist Alignment](https://arxiv.org/abs/2406.06144)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Jiaming Ji<sup>*</sup>, Kaile Wang<sup>*</sup>, Tianyi Qiu<sup>*</sup>, **Boyuan Chen**<sup>*</sup>, Jiayi Zhou<sup>*</sup>, Changye Li, Hantao Lou, Juntao Dai, Yunhuai Liu, and Yaodong Yang<sup>†</sup>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[[**Project**]](https://pku-lm-resist-alignment.github.io/)
+[[**Paper**]](https://arxiv.org/abs/2406.06144) <strong><span class='show_paper_citations' data='o23sDqkAAAAJ:IjCSPb-OGe4C'></span></strong>
+- This paper makes the *first* exploration of LLM alignment *elasticity* from both theoretical and empirical perspectives, revealing that models tend to revert to pre-training behavior distribution after fine-tuning, with this elasticity *positively correlating* with model size and pre-training data scale.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/papers/pkusaferlhf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[PKU-SafeRLHF: Towards Multi-Level Safety Alignment for LLMs with Human Preference](https://arxiv.org/abs/2406.15513)
+
+Jiaming Ji<sup>*α</sup>, Donghai Hong<sup>*α</sup>, Borong Zhang<sup>α</sup>, **Boyuan Chen**<sup>α</sup>, Josef Dai, Boren Zheng, Tianyi Qiu, Boxun Li, Yaodong Yang<sup>†</sup>
+
+
+[[**Paper**]](https://arxiv.org/abs/2406.15513) 
+[[**Data**]](https://huggingface.co/datasets/PKU-Alignment/PKU-SafeRLHF)
+<strong><span class='show_paper_citations' data='o23sDqkAAAAJ:WF5omc3nYNoC'></span></strong>
+- We introduce PKU-SafeRLHF, a comprehensive dataset for LLM safety alignment research, featuring 44.6k prompts and 265k QA pairs with safety meta-labels across 19 harm categories and three severity levels, along with 166.8k preference data for both dual-preference and single-preference scenarios.
+</div>
+</div>
+
 
 
 # Honors and Awards
@@ -106,13 +123,13 @@ Some thoughts on AI Alignment and Cognitive Reasoning
 
 # Educations
 - *2022.09 - Present*, [Yuanpei College](https://yuanpei.pku.edu.cn/), Peking University
-  <br/>
+  
   Undergraduate Student in Artificial Intelligence
 
 - *2023.05 - Present*, [PAIR Lab: PKU Alignment and Interaction Research Lab](https://pair-lab.com/)
-  <br/>
+  
   Research Intern
-  <br/>
+  
   Advisor: Prof. [Yaodong Yang](https://www.yangyaodong.com/) at [Institute for AI, Peking University](https://www.ai.pku.edu.cn/)
 
 <a href='https://clustrmaps.com/site/1c03m'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=n&d=SyBiJ1Ugb-rc6fbLUU-lVXiLkH4XSENzuYg767o06-o&co=2d78ad&ct=ffffff'/></a>
