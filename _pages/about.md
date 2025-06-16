@@ -72,7 +72,6 @@ I have just started on this long road, and I will leverage my youth and curiosit
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # Honors and Awards
 - *2025* The Sixth Yuanpei Young Scholar Award
