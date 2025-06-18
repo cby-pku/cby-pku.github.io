@@ -40,7 +40,7 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 </details>
 
 # News
-- *2025.06*: &nbsp;🎊 Our work MedAligner has been accepted by <font color="#DC143C">**The Innovation** (IF: 33.2)</font> ! MedAligner demonstrates the potential of Aligner (our NeurIPS 2024 oral work) in the medical domain.
+- *2025.06*: &nbsp;🎊 Our work MedAligner has been accepted by <font color="#DC143C"><b>The Innovation</b> (IF: 33.2)</font> ! MedAligner demonstrates the potential of Aligner (our NeurIPS 2024 oral work) in the medical domain.
 - *2025.06*: &nbsp;🎉 Two papers are accepted by ACL 2025 Main.
 - *2025.05*: &nbsp;🎉 We open-source [InterMT](https://pku-intermt.github.io/), the first multi-turn multimodal understanding and generation human preference dataset. Welcome to discuss and collaborate!
 - *2025.01*: &nbsp;🎉 We release [Align-DS-V](https://huggingface.co/PKU-Alignment/Align-DS-V), the first multimodal strong reasoning model.
