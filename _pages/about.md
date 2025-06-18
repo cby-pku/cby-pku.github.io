@@ -71,7 +71,7 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 [[**Project**]](https://pku-intermt.github.io/)
 [[**Paper**]](https://arxiv.org/abs/2505.23950) 
 <!-- <strong><span class='show_paper_citations' data='o23sDqkAAAAJ:roLk4NBRz8UC'></span></strong> -->
-- This paper presents InterMT, the first preference dataset for multi-turn multimodal interaction, featuring 15.6k prompts and 32.4k human-labeled preference pairs, with a novel agentic workflow leveraging tool-augmented MLLMs to construct multi-turn QA instances and assess model capabilities through InterMT-Bench.
+- This paper introduces **Data:** InterMT, a pioneering preference dataset for multi-turn multimodal interactions, comprising 15.6k prompts and 32.4k human-annotated preference pairs. It employs an innovative agentic workflow that utilizes tool-augmented MLLMs to generate multi-turn QA instances. **Algorithm:** The work proposes chain-prefix local and global preference modeling for training judge models, demonstrating *multi-turn scaling law*. **Evaluation:** The study evaluates model capabilities in multi-turn multimodal scenarios through InterMT-Bench.
 </div>
 </div>
 
