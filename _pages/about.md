@@ -138,6 +138,23 @@ Jiaming Ji<sup>*</sup>, Mickel Liu<sup>*</sup>, Juntao Dai<sup>*</sup>, Xuehai P
 </div>
 </div>
 
+# Journal
+<small><sup>*</sup> denotes equal contribution, <sup>α</sup> denotes core contributors, and <sup>†</sup> denotes corresponding author</small>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Innovation</div><img src='images/papers/medaligner.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Med-Aligner: Empowers LLM Medical Applications for complex medical scenarios](https://doi.org/10.1016/j.xinn.2025.101002)
+
+Xiangbin Meng<sup>*</sup>, Jia-ming Ji<sup>*</sup>, Xiangyu Yan<sup>*</sup>, Jun-tao Dai, **Bo-yuan Chen**, Guan Wang, Hua Xu, Jing-jia Wang, Xu-liang Wang, Da Liu, Ming-qi Zheng, Rongzhou Wu, Chuanjie Wu, Yuwei Wu<sup>†</sup>, Wen-yao Wang<sup>†</sup>, Zhen Song<sup>†</sup>, and Yaodong Yang<sup>†</sup>
+
+<strong><span style="color: #DC143C; font-weight: bold;">The Innovation (IF 33.2)</span></strong>
+
+<!-- <strong><span class='show_paper_citations' data='o23sDqkAAAAJ:roLk4NBRz8UC'></span></strong> -->
+- We introduce Med-Aligner, a plug-in alignment framework for LLMs that enables targeted medical calibration by learning correction residuals between preferred and non-preferred responses. Built as a 2-billion-parameter model using DeepSpeed and Transformer architecture, it is trained on 267,524 anonymized medical records from 21 departments spanning 4,353 disease types, achieving 90% cross-validation agreement through physician annotations following clinical guidelines.
+</div>
+</div>
+
 # Selected Preprints
 You may head for my [Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=o23sDqkAAAAJ) to view my other works!
 
