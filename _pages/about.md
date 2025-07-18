@@ -18,7 +18,7 @@ body_class: "page--about"
 
 <span class='anchor' id='about-me'></span>
 
-I am a undergraduate majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/), advised by Prof. [Yaodong Yang](https://www.yangyaodong.com/).
+I am an undergraduate majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/), advised by Prof. [Yaodong Yang](https://www.yangyaodong.com/).
 My research direction are reinforcement learning, the safety and value alignment of large models (*i.e.*, scalable oversight, deception alignment and super alignment). My current research focuses on the goal of constructing safe and trustworthy AI systems. You can find my <b>cv</b> and <b>research statement</b> [here](https://cby-pku.github.io//files/cv.pdf).
 
 My answers to the [Hamming question](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) (“What are the most important problems [that you should probably work on]?”): 
@@ -192,6 +192,7 @@ Jiaming Ji<sup>*</sup>, Tianyi Qiu<sup>*</sup>, **Boyuan Chen**<sup>*</sup>, Bor
 
 
 # Honors and Awards
+- *2025* Dean's Scholarship (¥10000 RMB)
 - *2025* The Sixth Yuanpei Young Scholar Award
 - *2024* <span style="background-color: #FFFF99">SenseTime Scholarship (25/year in China, 1/25, ¥20000 RMB)</span>
 - *2024* Yicong Huang Scholarship (research innovation award, ¥8000 RMB)
