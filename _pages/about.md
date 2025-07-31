@@ -40,6 +40,7 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 </details>
 
 # News
+- *2025.07*: &nbsp;🎉 Our work [Language Models Resist Alignment](https://arxiv.org/abs/2406.06144) has been awarded the <font color="#DC143C"><b>ACL 2025 Best Paper</b></font>!
 - *2025.06*: &nbsp;🎊 Our work MedAligner has been accepted by <font color="#DC143C"><b>The Innovation</b> (IF: 33.2)</font> ! MedAligner demonstrates the potential of Aligner (our NeurIPS 2024 oral work) in the medical domain.
 - *2025.06*: &nbsp;🎉 Two papers are accepted by ACL 2025 Main.
 - *2025.05*: &nbsp;🎉 We open-source [InterMT](https://pku-intermt.github.io/), the first multi-turn multimodal understanding and generation human preference dataset. Welcome to discuss and collaborate!
@@ -82,6 +83,8 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 [Language Models Resist Alignment](https://arxiv.org/abs/2406.06144)
 
 Jiaming Ji<sup>*</sup>, Kaile Wang<sup>*</sup>, Tianyi Qiu<sup>*</sup>, **Boyuan Chen**<sup>*</sup>, Jiayi Zhou<sup>*</sup>, Changye Li, Hantao Lou, Juntao Dai, Yunhuai Liu, and Yaodong Yang<sup>†</sup>
+
+<strong><span style="color: #DC143C; font-weight: bold;">ACL 2025 Best Paper Award</span></strong>
 
 [[**Project**]](https://pku-lm-resist-alignment.github.io/)
 [[**Paper**]](https://arxiv.org/abs/2406.06144) 
