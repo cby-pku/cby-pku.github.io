@@ -4,6 +4,12 @@ on:
  page_build: 
  schedule:
   - cron:  '0 8 * * *'
+ workflow_dispatch:
+   inputs:
+     reason:
+       description: 'Reason for manual citation update'
+       required: false
+       default: 'Manual citation update'
 
 jobs:
   build:
@@ -23,7 +29,7 @@ jobs:
         git config --local user.name "${GITHUB_ACTOR}"
         export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
         git add *.json
-        git commit -m "Updated Citation Data"
+        git commit -m "Updated Citation Data - ${{ github.event.inputs.reason || 'Scheduled update' }}"
         git push "${remote_repo}" HEAD:google-scholar-stats --force
       env: 
         GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}

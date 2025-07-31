@@ -35,7 +35,7 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 <details>
   <summary>关于我（中文）</summary>
   <p>
-  陈博远，北京大学元培学院人工智能方向本科生，导师为杨耀东老师，研究方向为强化学习、大模型的安全与价值对齐、可扩展监督，曾在计算机顶会发表口头报告，谷歌学术引用累计1000余次，GitHub开源累计获得3.5k+ Star。曾获首批北京市自然科学基金资助（2023年度北京大学人工智能本科生唯一），商汤奖学金（全国仅25位），研究成果及模型被OpenAI 、Meta引用，被MIT Tech Review报道。
+  陈博远，北京大学元培学院人工智能方向本科生，导师为杨耀东老师，研究方向为强化学习、大模型的安全与价值对齐、可扩展监督，曾在计算机顶会NeurIPS发表口头报告，荣获ACL 2025 最佳论文奖，谷歌学术引用累计1000余次，GitHub开源累计获得3.5k+ Star。曾获首批北京市自然科学基金资助（2023年度北京大学人工智能本科生唯一），商汤奖学金（全国仅25位），研究成果及模型被OpenAI 、Meta引用，被MIT Tech Review报道。
   </p>
 </details>
 
@@ -44,10 +44,10 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 - *2025.06*: &nbsp;🎊 Our work MedAligner has been accepted by <font color="#DC143C"><b>The Innovation</b> (IF: 33.2)</font> ! MedAligner demonstrates the potential of Aligner (our NeurIPS 2024 oral work) in the medical domain.
 - *2025.06*: &nbsp;🎉 Two papers are accepted by ACL 2025 Main.
 - *2025.05*: &nbsp;🎉 We open-source [InterMT](https://pku-intermt.github.io/), the first multi-turn multimodal understanding and generation human preference dataset. Welcome to discuss and collaborate!
-- *2025.01*: &nbsp;🎉 We release [Align-DS-V](https://huggingface.co/PKU-Alignment/Align-DS-V), the first multimodal strong reasoning model.
 
 <details markdown="1">
   <summary><font size="+1"><b>More news</b></font></summary>
+- *2025.01*: &nbsp;🎉 We release [Align-DS-V](https://huggingface.co/PKU-Alignment/Align-DS-V), the first multimodal strong reasoning model.
 - *2024.10*: &nbsp;💥 We open-source the first all-modality alignment framework - [Align-Anything](https://github.com/PKU-Alignment/align-anything)!
 - *2024.09*: &nbsp;💥 **<font color="#DC143C">Aligner</font>** has been accepted as an **<font color="#DC143C">Oral</font>** presentation at NeurIPS 2024!
 - *2024.06*: &nbsp;🎉 We introduce the [PKU-SafeRLHF dataset](https://sites.google.com/view/pku-saferlhf), designed to promote research on safety alignment in LLMs.

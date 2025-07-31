@@ -1,1 +1,246 @@
-{"container_type": "Author", "filled": ["basics", "publications", "indices", "counts"], "scholar_id": "o23sDqkAAAAJ", "source": "AUTHOR_PROFILE_PAGE", "name": "Boyuan Chen", "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=o23sDqkAAAAJ&citpid=4", "affiliation": "Peking University", "organization": 10725744176602846184, "interests": ["AI Safety", "Alignment", "Scalable Oversight", "Reasoning & MAS", "Reinforcement Learning"], "email_domain": "@stu.pku.edu.cn", "homepage": "https://cby-pku.github.io/", "citedby": 1044, "publications": {"o23sDqkAAAAJ:u5HHmVD_uO8C": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Beavertails: Towards improved safety alignment of llm via a human-preference dataset", "pub_year": "2023"}, "filled": false, "author_pub_id": "o23sDqkAAAAJ:u5HHmVD_uO8C", "num_citations": 494, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7559603210189078468", "cites_id": ["7559603210189078468"]}, "o23sDqkAAAAJ:u-x6o8ySG0sC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Ai alignment: A comprehensive survey", "pub_year": "2023"}, "filled": false, "author_pub_id": "o23sDqkAAAAJ:u-x6o8ySG0sC", "num_citations": 338, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2143607605171939849", "cites_id": ["2143607605171939849"]}, "o23sDqkAAAAJ:Tyk-4Ss8FVUC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Aligner: Efficient alignment by learning to correct", "pub_year": "2024"}, "filled": false, "author_pub_id": "o23sDqkAAAAJ:Tyk-4Ss8FVUC", "num_citations": 90, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16793392278683337139,10809872303572345357", "cites_id": ["16793392278683337139", "10809872303572345357"]}, "o23sDqkAAAAJ:WF5omc3nYNoC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Pku-saferlhf: Towards multi-level safety alignment for llms with human preference", "pub_year": "2024"}, "filled": false, "author_pub_id": "o23sDqkAAAAJ:WF5omc3nYNoC", "num_citations": 44, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=964861840881561808", "cites_id": ["964861840881561808"]}, "o23sDqkAAAAJ:YsMSGLbcyi4C": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "RedStar: Does Scaling Long-CoT Data Unlock Better Slow-Reasoning Systems?", "pub_year": "2025"}, "filled": false, "author_pub_id": "o23sDqkAAAAJ:YsMSGLbcyi4C", "num_citations": 23, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9883674566653204284", "cites_id": ["9883674566653204284"]}, "o23sDqkAAAAJ:zYLM7Y9cAGgC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Pku-saferlhf: A safety alignment preference dataset for llama family models", "pub_year": "2024"}, "filled": false, "author_pub_id": "o23sDqkAAAAJ:zYLM7Y9cAGgC", "num_citations": 23, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4726118469638404036", "cites_id": ["4726118469638404036"]}, "o23sDqkAAAAJ:Y0pCki6q_DkC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Align anything: Training all-modality models to follow instructions with language feedback", "pub_year": "2024"}, "filled": false, "author_pub_id": "o23sDqkAAAAJ:Y0pCki6q_DkC", "num_citations": 11, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8796873568917280090", "cites_id": ["8796873568917280090"]}, "o23sDqkAAAAJ:IjCSPb-OGe4C": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Language Models Resist Alignment", "pub_year": "2024"}, "filled": false, "author_pub_id": "o23sDqkAAAAJ:IjCSPb-OGe4C", "num_citations": 8, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12813753297175443739", "cites_id": ["12813753297175443739"]}, "o23sDqkAAAAJ:eQOLeE2rZwMC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Safe rlhf-v: Safe reinforcement learning from human feedback in multimodal large language models", "pub_year": "2025"}, "filled": false, "author_pub_id": "o23sDqkAAAAJ:eQOLeE2rZwMC", "num_citations": 6, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5388117411840480975", "cites_id": ["5388117411840480975"]}, "o23sDqkAAAAJ:qjMakFHDy7sC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Efficient model-agnostic alignment via bayesian persuasion", "pub_year": "2024"}, "filled": false, "author_pub_id": "o23sDqkAAAAJ:qjMakFHDy7sC", "num_citations": 5, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15193766657926823223", "cites_id": ["15193766657926823223"]}, "o23sDqkAAAAJ:LkGwnXOMwfcC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Mitigating Deceptive Alignment via Self-Monitoring", "pub_year": "2025"}, "filled": false, "author_pub_id": "o23sDqkAAAAJ:LkGwnXOMwfcC", "num_citations": 1, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13313012562657212073", "cites_id": ["13313012562657212073"]}, "o23sDqkAAAAJ:ufrVoPGSRksC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Redefining Superalignment: From Weak-to-Strong Alignment to Human-AI Co-Alignment to Sustainable Symbiotic Society", "pub_year": "2025"}, "filled": false, "author_pub_id": "o23sDqkAAAAJ:ufrVoPGSRksC", "num_citations": 1, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14935163745073524171", "cites_id": ["14935163745073524171"]}, "o23sDqkAAAAJ:roLk4NBRz8UC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback", "pub_year": "2025"}, "filled": false, "author_pub_id": "o23sDqkAAAAJ:roLk4NBRz8UC", "num_citations": 0}, "o23sDqkAAAAJ:_FxGoFyzp5QC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Generative RLHF-V: Learning Principles from Multi-modal Human Preference", "pub_year": "2025"}, "filled": false, "author_pub_id": "o23sDqkAAAAJ:_FxGoFyzp5QC", "num_citations": 0}}, "citedby5y": 1044, "hindex": 8, "hindex5y": 8, "i10index": 7, "i10index5y": 7, "cites_per_year": {"2023": 48, "2024": 540, "2025": 454}, "updated": "2025-06-16 18:49:14.350689"}
+{
+  "container_type": "Author",
+  "filled": [
+    "basics",
+    "publications",
+    "indices",
+    "counts"
+  ],
+  "scholar_id": "o23sDqkAAAAJ",
+  "source": "AUTHOR_PROFILE_PAGE",
+  "name": "Boyuan Chen",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=o23sDqkAAAAJ&citpid=4",
+  "affiliation": "Peking University",
+  "organization": 10725744176602846184,
+  "interests": [
+    "AI Safety",
+    "Alignment",
+    "Scalable Oversight",
+    "Reasoning & MAS",
+    "Reinforcement Learning"
+  ],
+  "email_domain": "@stu.pku.edu.cn",
+  "homepage": "https://cby-pku.github.io/",
+  "citedby": 1196,
+  "publications": {
+    "o23sDqkAAAAJ:u5HHmVD_uO8C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Beavertails: Towards improved safety alignment of llm via a human-preference dataset",
+        "pub_year": "2023"
+      },
+      "filled": false,
+      "author_pub_id": "o23sDqkAAAAJ:u5HHmVD_uO8C",
+      "num_citations": 556,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7559603210189078468",
+      "cites_id": [
+        "7559603210189078468"
+      ]
+    },
+    "o23sDqkAAAAJ:u-x6o8ySG0sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Ai alignment: A comprehensive survey",
+        "pub_year": "2023"
+      },
+      "filled": false,
+      "author_pub_id": "o23sDqkAAAAJ:u-x6o8ySG0sC",
+      "num_citations": 399,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2143607605171939849,6752935002944411308,2685338978195446205",
+      "cites_id": [
+        "2143607605171939849",
+        "6752935002944411308",
+        "2685338978195446205"
+      ]
+    },
+    "o23sDqkAAAAJ:Tyk-4Ss8FVUC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Aligner: Efficient alignment by learning to correct",
+        "pub_year": "2024"
+      },
+      "filled": false,
+      "author_pub_id": "o23sDqkAAAAJ:Tyk-4Ss8FVUC",
+      "num_citations": 108,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16793392278683337139,2651722320844452513",
+      "cites_id": [
+        "16793392278683337139",
+        "2651722320844452513"
+      ]
+    },
+    "o23sDqkAAAAJ:WF5omc3nYNoC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Pku-saferlhf: Towards multi-level safety alignment for llms with human preference",
+        "pub_year": "2024"
+      },
+      "filled": false,
+      "author_pub_id": "o23sDqkAAAAJ:WF5omc3nYNoC",
+      "num_citations": 82,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=964861840881561808,4726118469638404036",
+      "cites_id": [
+        "964861840881561808",
+        "4726118469638404036"
+      ]
+    },
+    "o23sDqkAAAAJ:Y0pCki6q_DkC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Align anything: Training all-modality models to follow instructions with language feedback",
+        "pub_year": "2024"
+      },
+      "filled": false,
+      "author_pub_id": "o23sDqkAAAAJ:Y0pCki6q_DkC",
+      "num_citations": 15,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8796873568917280090",
+      "cites_id": [
+        "8796873568917280090"
+      ]
+    },
+    "o23sDqkAAAAJ:IjCSPb-OGe4C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Language Models Resist Alignment",
+        "pub_year": "2024"
+      },
+      "filled": false,
+      "author_pub_id": "o23sDqkAAAAJ:IjCSPb-OGe4C",
+      "num_citations": 14,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12813753297175443739,10786931961723243162",
+      "cites_id": [
+        "12813753297175443739",
+        "10786931961723243162"
+      ]
+    },
+    "o23sDqkAAAAJ:qjMakFHDy7sC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Efficient model-agnostic alignment via bayesian persuasion",
+        "pub_year": "2024"
+      },
+      "filled": false,
+      "author_pub_id": "o23sDqkAAAAJ:qjMakFHDy7sC",
+      "num_citations": 8,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15193766657926823223",
+      "cites_id": [
+        "15193766657926823223"
+      ]
+    },
+    "o23sDqkAAAAJ:eQOLeE2rZwMC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Safe rlhf-v: Safe reinforcement learning from human feedback in multimodal large language models",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "o23sDqkAAAAJ:eQOLeE2rZwMC",
+      "num_citations": 7,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5388117411840480975,9440851480583328350",
+      "cites_id": [
+        "5388117411840480975",
+        "9440851480583328350"
+      ]
+    },
+    "o23sDqkAAAAJ:LkGwnXOMwfcC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Mitigating deceptive alignment via self-monitoring",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "o23sDqkAAAAJ:LkGwnXOMwfcC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13313012562657212073",
+      "cites_id": [
+        "13313012562657212073"
+      ]
+    },
+    "o23sDqkAAAAJ:ZeXyd9-uunAC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Perception stitching: Zero-shot perception encoder transfer for visuomotor robot policies",
+        "pub_year": "2024"
+      },
+      "filled": false,
+      "author_pub_id": "o23sDqkAAAAJ:ZeXyd9-uunAC",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12323751243370091469",
+      "cites_id": [
+        "12323751243370091469"
+      ]
+    },
+    "o23sDqkAAAAJ:_FxGoFyzp5QC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Generative RLHF-V: Learning Principles from Multi-modal Human Preference",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "o23sDqkAAAAJ:_FxGoFyzp5QC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6206563478801997165",
+      "cites_id": [
+        "6206563478801997165"
+      ]
+    },
+    "o23sDqkAAAAJ:ufrVoPGSRksC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Redefining Superalignment: From Weak-to-Strong Alignment to Human-AI Co-Alignment to Sustainable Symbiotic Society",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "o23sDqkAAAAJ:ufrVoPGSRksC",
+      "num_citations": 1,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14935163745073524171",
+      "cites_id": [
+        "14935163745073524171"
+      ]
+    },
+    "o23sDqkAAAAJ:Se3iqnhoufwC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Med-Aligner empowers LLM medical applications for complex medical scenarios",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "o23sDqkAAAAJ:Se3iqnhoufwC",
+      "num_citations": 0
+    },
+    "o23sDqkAAAAJ:roLk4NBRz8UC": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "InterMT: Multi-Turn Interleaved Preference Alignment with Human Feedback",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "o23sDqkAAAAJ:roLk4NBRz8UC",
+      "num_citations": 0
+    }
+  },
+  "citedby5y": 1195,
+  "hindex": 7,
+  "hindex5y": 7,
+  "i10index": 6,
+  "i10index5y": 6,
+  "cites_per_year": {
+    "2023": 45,
+    "2024": 578,
+    "2025": 569
+  },
+  "updated": "2025-08-01 02:32:00.429425"
+}
