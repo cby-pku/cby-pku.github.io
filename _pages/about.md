@@ -40,7 +40,7 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 </details>
 
 # News
-- *2025.09*: &nbsp;🎙️ We are excited to announce our latest work, "Shadows of Intelligence: A Comprehensive Survey of AI Deception." For more details, please visit [here](https://deceptionsurvey.com/).
+- *2025.01*: &nbsp;🎙️ We are excited to announce our latest work, "Shadows of Intelligence: A Comprehensive Survey of AI Deception." For more details, please visit [here](https://deceptionsurvey.com/).
 - *2025.07*: &nbsp;🎉 Our work [Language Models Resist Alignment](https://arxiv.org/abs/2406.06144) has been awarded the <font color="#DC143C"><b>ACL 2025 Best Paper</b></font>!
 - *2025.06*: &nbsp;🎊 Our work MedAligner has been accepted by <font color="#DC143C"><b>The Innovation</b> (IF: 33.2)</font> ! MedAligner demonstrates the potential of Aligner (our NeurIPS 2024 oral work) in the medical domain.
 - *2025.06*: &nbsp;🎉 Two papers are accepted by ACL 2025 Main.
