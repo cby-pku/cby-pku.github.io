@@ -169,7 +169,7 @@ Xiangbin Meng<sup>*</sup>, Jia-ming Ji<sup>*</sup>, Xiangyu Yan<sup>*</sup>, Jun
 
 Jiaming Ji<sup>*</sup>, Tianyi Qiu<sup>*</sup>, **Boyuan Chen**<sup>*</sup>, Borong Zhang<sup>*</sup>, Hantao Lou, Kaile Wang, Yawen Duan, Zhonghao He, Jiayi Zhou, Zhaowei Zhang, Fanzhi Zeng, Kwan Yee Ng, Juntao Dai, Xuehai Pan, Aidan O'Gara, Yingshan Lei, Hua Xu, Brian Tse, Jie Fu, Stephen McAleer, Yaodong Yang, Yizhou Wang, Song-Chun Zhu, Yike Guo, Wen Gao
 
-<strong><span style="color: #DC143C; font-weight: bold;">ACM Computing Surveys(IF 28.0)</span></strong>
+<strong><span style="color: #DC143C; font-weight: bold;">ACM Computing Surveys (IF 28.0)</span></strong>
 
 [[**Paper**]](https://arxiv.org/abs/2310.19852)
 [[**Project**]](https://alignmentsurvey.com/)
