@@ -40,6 +40,7 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 </details>
 
 # News
+- *2025.09*: &nbsp;🎉 Our work [AI Alignment: A Comprehensive Survey](https://arxiv.org/abs/2310.19852) has been accepted by <font color="#DC143C"><b>ACM Computing Surveys</b> (IF: 28.0)</font> !
 - *2025.09*: &nbsp;🎙️ We are excited to announce our latest work, **"Shadows of Intelligence: A Comprehensive Survey of AI Deception."** For more details, please visit [here](https://deceptionsurvey.com/).
 - *2025.07*: &nbsp;🎉 Our work [Language Models Resist Alignment](https://arxiv.org/abs/2406.06144) has been awarded the <font color="#DC143C"><b>ACL 2025 Best Paper</b></font>!
 - *2025.06*: &nbsp;🎊 Our work MedAligner has been accepted by <font color="#DC143C"><b>The Innovation</b> (IF: 33.2)</font> ! MedAligner demonstrates the potential of Aligner (our NeurIPS 2024 oral work) in the medical domain.
@@ -145,6 +146,7 @@ Jiaming Ji<sup>*</sup>, Mickel Liu<sup>*</sup>, Juntao Dai<sup>*</sup>, Xuehai P
 # Journal
 <small><sup>*</sup> denotes equal contribution, <sup>α</sup> denotes core contributors, and <sup>†</sup> denotes corresponding author</small>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">The Innovation</div><img src='images/papers/medaligner.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -158,6 +160,24 @@ Xiangbin Meng<sup>*</sup>, Jia-ming Ji<sup>*</sup>, Xiangyu Yan<sup>*</sup>, Jun
 - We introduce Med-Aligner, a plug-in alignment framework for LLMs that enables targeted medical calibration by learning correction residuals between preferred and non-preferred responses. Built as a 2-billion-parameter model using DeepSpeed and Transformer architecture, it is trained on 267,524 anonymized medical records from 21 departments spanning 4,353 disease types, achieving 90% cross-validation agreement through physician annotations following clinical guidelines.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM Computing Surveys</div><img src='images/papers/alignmentsurvey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AI Alignment: A Comprehensive Survey](https://arxiv.org/abs/2310.19852)
+
+Jiaming Ji<sup>*</sup>, Tianyi Qiu<sup>*</sup>, **Boyuan Chen**<sup>*</sup>, Borong Zhang<sup>*</sup>, Hantao Lou, Kaile Wang, Yawen Duan, Zhonghao He, Jiayi Zhou, Zhaowei Zhang, Fanzhi Zeng, Kwan Yee Ng, Juntao Dai, Xuehai Pan, Aidan O'Gara, Yingshan Lei, Hua Xu, Brian Tse, Jie Fu, Stephen McAleer, Yaodong Yang, Yizhou Wang, Song-Chun Zhu, Yike Guo, Wen Gao
+
+<strong><span style="color: #DC143C; font-weight: bold;">ACM Computing Surveys(IF 28.0)</span></strong>
+
+[[**Paper**]](https://arxiv.org/abs/2310.19852)
+[[**Project**]](https://alignmentsurvey.com/)
+<strong><span class='show_paper_citations' data='o23sDqkAAAAJ:u-x6o8ySG0sC'></span></strong>
+- We present a comprehensive survey of AI alignment research, introducing the RICE principles (Robustness, Interpretability, Controllability, and Ethicality) and exploring both forward alignment (preference modeling, RLHF, scalable oversight) and backward alignment (assurance techniques, governance practices) approaches.
+</div>
+</div>
+
 
 # Selected Preprints
 You may head for my [Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=o23sDqkAAAAJ) to view my other works!
@@ -177,22 +197,6 @@ Jiaming Ji<sup>*</sup>, Jiayi Zhou<sup>*</sup>, Hantao Lou<sup>*</sup>, **Boyuan
 - Motivated by the challenge of achieving all-modality human preference alignment, particularly the limitations of binary preferences in accurately reflecting human preferences, we introduce the **align-anything**: **Data**: align-anything-200k, which covers text, image, audio, video modalities, and 8+ specific subtasks, annotated with preference and language feedback; **Algorithm**: improving all-modality alignment by learning from language feedback; **Evaluation**: encompassing all-modality understanding and generation.
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/papers/alignmentsurvey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[AI Alignment: A Comprehensive Survey](https://arxiv.org/abs/2310.19852)
-
-Jiaming Ji<sup>*</sup>, Tianyi Qiu<sup>*</sup>, **Boyuan Chen**<sup>*</sup>, Borong Zhang<sup>*</sup>, Hantao Lou, Kaile Wang, Yawen Duan, Zhonghao He, Jiayi Zhou, Zhaowei Zhang, Fanzhi Zeng, Kwan Yee Ng, Juntao Dai, Xuehai Pan, Aidan O'Gara, Yingshan Lei, Hua Xu, Brian Tse, Jie Fu, Stephen McAleer, Yaodong Yang, Yizhou Wang, Song-Chun Zhu, Yike Guo, Wen Gao
-
-[[**Paper**]](https://arxiv.org/abs/2310.19852)
-[[**Project**]](https://alignmentsurvey.com/)
-<strong><span class='show_paper_citations' data='o23sDqkAAAAJ:u-x6o8ySG0sC'></span></strong>
-- We present a comprehensive survey of AI alignment research, introducing the RICE principles (Robustness, Interpretability, Controllability, and Ethicality) and exploring both forward alignment (preference modeling, RLHF, scalable oversight) and backward alignment (assurance techniques, governance practices) approaches.
-</div>
-</div>
-
-
 
 
 # Honors and Awards
