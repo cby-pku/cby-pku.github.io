@@ -9,7 +9,7 @@
   "scholar_id": "o23sDqkAAAAJ",
   "source": "AUTHOR_PROFILE_PAGE",
   "name": "Boyuan Chen",
-  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=o23sDqkAAAAJ&citpid=4",
+  "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=o23sDqkAAAAJ&citpid=5",
   "affiliation": "Peking University",
   "organization": 10725744176602846184,
   "interests": [
@@ -21,7 +21,7 @@
   ],
   "email_domain": "@stu.pku.edu.cn",
   "homepage": "https://cby-pku.github.io/",
-  "citedby": 1196,
+  "citedby": 1321,
   "publications": {
     "o23sDqkAAAAJ:u5HHmVD_uO8C": {
       "container_type": "Publication",
@@ -32,7 +32,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:u5HHmVD_uO8C",
-      "num_citations": 556,
+      "num_citations": 612,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7559603210189078468",
       "cites_id": [
         "7559603210189078468"
@@ -47,7 +47,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 399,
+      "num_citations": 442,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2143607605171939849,6752935002944411308,2685338978195446205",
       "cites_id": [
         "2143607605171939849",
@@ -64,7 +64,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:Tyk-4Ss8FVUC",
-      "num_citations": 108,
+      "num_citations": 116,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16793392278683337139,2651722320844452513",
       "cites_id": [
         "16793392278683337139",
@@ -80,7 +80,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:WF5omc3nYNoC",
-      "num_citations": 82,
+      "num_citations": 91,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=964861840881561808,4726118469638404036",
       "cites_id": [
         "964861840881561808",
@@ -96,7 +96,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:Y0pCki6q_DkC",
-      "num_citations": 15,
+      "num_citations": 17,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8796873568917280090",
       "cites_id": [
         "8796873568917280090"
@@ -111,7 +111,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:IjCSPb-OGe4C",
-      "num_citations": 14,
+      "num_citations": 15,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12813753297175443739,10786931961723243162",
       "cites_id": [
         "12813753297175443739",
@@ -127,7 +127,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:qjMakFHDy7sC",
-      "num_citations": 8,
+      "num_citations": 10,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15193766657926823223",
       "cites_id": [
         "15193766657926823223"
@@ -142,7 +142,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:eQOLeE2rZwMC",
-      "num_citations": 7,
+      "num_citations": 8,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5388117411840480975,9440851480583328350",
       "cites_id": [
         "5388117411840480975",
@@ -158,25 +158,40 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:LkGwnXOMwfcC",
-      "num_citations": 3,
+      "num_citations": 4,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13313012562657212073",
       "cites_id": [
         "13313012562657212073"
       ]
     },
-    "o23sDqkAAAAJ:ZeXyd9-uunAC": {
+    "o23sDqkAAAAJ:ufrVoPGSRksC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
-        "title": "Perception stitching: Zero-shot perception encoder transfer for visuomotor robot policies",
-        "pub_year": "2024"
+        "title": "Redefining Superalignment: From Weak-to-Strong Alignment to Human-AI Co-Alignment to Sustainable Symbiotic Society",
+        "pub_year": "2025"
       },
       "filled": false,
-      "author_pub_id": "o23sDqkAAAAJ:ZeXyd9-uunAC",
-      "num_citations": 2,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12323751243370091469",
+      "author_pub_id": "o23sDqkAAAAJ:ufrVoPGSRksC",
+      "num_citations": 3,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14935163745073524171",
       "cites_id": [
-        "12323751243370091469"
+        "14935163745073524171"
+      ]
+    },
+    "o23sDqkAAAAJ:qUcmZB5y_30C": {
+      "container_type": "Publication",
+      "source": "AUTHOR_PUBLICATION_ENTRY",
+      "bib": {
+        "title": "Never Compromise to Vulnerabilities: A Comprehensive Survey on AI Governance",
+        "pub_year": "2025"
+      },
+      "filled": false,
+      "author_pub_id": "o23sDqkAAAAJ:qUcmZB5y_30C",
+      "num_citations": 2,
+      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9231800669554992542",
+      "cites_id": [
+        "9231800669554992542"
       ]
     },
     "o23sDqkAAAAJ:_FxGoFyzp5QC": {
@@ -194,26 +209,11 @@
         "6206563478801997165"
       ]
     },
-    "o23sDqkAAAAJ:ufrVoPGSRksC": {
-      "container_type": "Publication",
-      "source": "AUTHOR_PUBLICATION_ENTRY",
-      "bib": {
-        "title": "Redefining Superalignment: From Weak-to-Strong Alignment to Human-AI Co-Alignment to Sustainable Symbiotic Society",
-        "pub_year": "2025"
-      },
-      "filled": false,
-      "author_pub_id": "o23sDqkAAAAJ:ufrVoPGSRksC",
-      "num_citations": 1,
-      "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14935163745073524171",
-      "cites_id": [
-        "14935163745073524171"
-      ]
-    },
     "o23sDqkAAAAJ:Se3iqnhoufwC": {
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
-        "title": "Med-Aligner empowers LLM medical applications for complex medical scenarios",
+        "title": "Med-Aligner Empowers LLM Medical Applications for complex medical scenarios",
         "pub_year": "2025"
       },
       "filled": false,
@@ -232,15 +232,15 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 1195,
-  "hindex": 7,
-  "hindex5y": 7,
-  "i10index": 6,
-  "i10index5y": 6,
+  "citedby5y": 1320,
+  "hindex": 8,
+  "hindex5y": 8,
+  "i10index": 7,
+  "i10index5y": 7,
   "cites_per_year": {
-    "2023": 45,
-    "2024": 578,
-    "2025": 569
+    "2023": 43,
+    "2024": 568,
+    "2025": 705
   },
-  "updated": "2025-08-01 02:32:00.429425"
+  "updated": "2025-09-24 20:10:08.151322"
 }
