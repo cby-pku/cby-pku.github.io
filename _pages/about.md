@@ -187,6 +187,28 @@ Jiaming Ji<sup>*</sup>, Tianyi Qiu<sup>*</sup>, **Boyuan Chen**<sup>*</sup>, Bor
 # Selected Preprints
 You may head for my [Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&hl=zh-CN&user=o23sDqkAAAAJ) to view my other works!
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/deceptionsurvey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Shadow of Intelligence: A Comprehensive Survey on AI Deception](https://deceptionsurvey.com/paper.pdf)
+
+
+PKU-Alignment Team and other collaborators<sup>*</sup>, Yaodong Yang<sup>†</sup>
+
+<sub><sup>*</sup> We thank all collaborators from Anthropic, ETH, Oxford, UC Berkeley, Johns Hopkins University, Singapore, SafeAI Forum, and Concordia AI for their valuable feedback. A preprint version will be released soon.</sub>
+
+<strong><span style="color: #DC143C; font-weight: bold;">Beta Version (v2)</span></strong>
+
+
+[[**Paper**]](https://deceptionsurvey.com/paper.pdf)
+[[**Website**]](https://deceptionsurvey.com)
+
+- As intelligence grows, so does its shadow. AI deception—where systems induce false beliefs to secure self-beneficial outcomes—has shifted from a speculative concern to an empirically demonstrated risk across language models, AI agents, and emerging frontier systems. This survey provides a comprehensive and up-to-date overview of the field, defining AI deception through the lens of signaling theory and reviewing empirical studies that highlight its sociotechnical risks. We organize existing research into a **deception cycle** with two components: **emergence**, which analyzes incentive foundations, capability prerequisites (perception, planning, and performing), and contextual triggers such as supervision gaps and distributional shifts; and **treatment**, which encompasses detection methods, evaluation protocols, and mitigation strategies. We conclude by outlining key challenges and future directions, emphasizing the need for integrated technical, community, and governance approaches, and provide a living resource at [www.deceptionsurvey.com](http://www.deceptionsurvey.com)
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/papers/alignanything.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
