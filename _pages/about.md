@@ -227,6 +227,9 @@ Jiaming Ji<sup>*</sup>, Jiayi Zhou<sup>*</sup>, Hantao Lou<sup>*</sup>, **Boyuan
 
 
 # Honors and Awards
+
+- *2025* <span style="background-color: #FFFF99">May Fourth Scholarship (Highest-level Scholarship for Peking University)</span>
+- *2025* Merit Student of Peking University (Ranked 1st out of 356 in the Academy)
 - *2025* Dean's Scholarship (¥10000 RMB)
 - *2025* The Sixth Yuanpei Young Scholar Award
 - *2024* <span style="background-color: #FFFF99">SenseTime Scholarship (25/year in China, 1/25, ¥20000 RMB)</span>
