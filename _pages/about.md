@@ -41,7 +41,7 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 
 # News
 - *2025.09*: &nbsp;🎉 Three papers have been accepted to NeurIPS 2025! Among them, [InterMT](https://arxiv.org/abs/2505.23950) was selected as a <font color="#DC143C"><b>Spotlight</b> (Top 2.6%)</font>.
-- *2025.09*: &nbsp;🎉 Our work [AI Alignment: A Comprehensive Survey](https://arxiv.org/abs/2310.19852) has been accepted by <font color="#DC143C"><b>ACM Computing Surveys</b> Impact Factor: 28.0 </font>, (ranked 1/147 in Computer Science Theory & Methods) !
+- *2025.09*: &nbsp;🎉 Our work [AI Alignment: A Comprehensive Survey](https://dl.acm.org/doi/10.1145/3770749) has been accepted by <font color="#DC143C"><b>ACM Computing Surveys</b> Impact Factor: 28.0 </font>, (ranked 1/147 in Computer Science Theory & Methods) !
 - *2025.09*: &nbsp;🎙️ We are excited to announce our latest work, **"Shadows of Intelligence: A Comprehensive Survey of AI Deception."** For more details, please visit [here](https://deceptionsurvey.com/).
 - *2025.07*: &nbsp;🎉 Our work [Language Models Resist Alignment](https://arxiv.org/abs/2406.06144) has been awarded the <font color="#DC143C"><b>ACL 2025 Best Paper</b></font>!
 - *2025.06*: &nbsp;🎊 Our work MedAligner has been accepted by <font color="#DC143C"><b>The Innovation</b> (IF: 33.2)</font> ! MedAligner demonstrates the potential of Aligner (our NeurIPS 2024 oral work) in the medical domain.
