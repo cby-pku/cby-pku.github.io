@@ -35,13 +35,13 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 <details>
   <summary>关于我（中文）</summary>
   <p>
-  陈博远，北京大学元培学院人工智能方向本科生，导师为杨耀东老师，研究方向为强化学习、大模型的安全与价值对齐、可扩展监督，曾在计算机顶会NeurIPS发表口头报告、亮点论文等，荣获ACL 2025 最佳论文奖，谷歌学术引用累计1300余次，GitHub开源累计获得3.5k+ Star。曾获首批北京市自然科学基金资助（2023年度北京大学人工智能本科生唯一），商汤奖学金（全国仅25位），研究成果及模型被OpenAI 、Meta引用，被MIT Tech Review报道。
+  陈博远，北京大学元培学院人工智能方向本科生，导师为杨耀东老师，研究方向为强化学习、大模型的安全与价值对齐、可扩展监督，曾在计算机顶会NeurIPS发表口头报告、亮点论文等，荣获ACL2025 最佳论文奖，谷歌学术引用累计1400余次，GitHub开源累计获得3.5k+ Star。曾获首批北京市自然科学基金资助（2023年度北京大学人工智能本科生唯一），商汤奖学金（全国仅25位），研究成果及模型被OpenAI 、Meta引用，被新华社、光明日报、MIT Tech Review报道。
   </p>
 </details>
 
 # News
 - *2025.09*: &nbsp;🎉 Three papers have been accepted to NeurIPS 2025! Among them, [InterMT](https://arxiv.org/abs/2505.23950) was selected as a <font color="#DC143C"><b>Spotlight</b> (Top 2.6%)</font>.
-- *2025.09*: &nbsp;🎉 Our work [AI Alignment: A Comprehensive Survey](https://arxiv.org/abs/2310.19852) has been accepted by <font color="#DC143C"><b>ACM Computing Surveys</b> (IF: 28.0)</font> !
+- *2025.09*: &nbsp;🎉 Our work [AI Alignment: A Comprehensive Survey](https://arxiv.org/abs/2310.19852) has been accepted by <font color="#DC143C"><b>ACM Computing Surveys</b> Impact Factor: 28.0 </font>, (ranked 1/147 in Computer Science Theory & Methods) !
 - *2025.09*: &nbsp;🎙️ We are excited to announce our latest work, **"Shadows of Intelligence: A Comprehensive Survey of AI Deception."** For more details, please visit [here](https://deceptionsurvey.com/).
 - *2025.07*: &nbsp;🎉 Our work [Language Models Resist Alignment](https://arxiv.org/abs/2406.06144) has been awarded the <font color="#DC143C"><b>ACL 2025 Best Paper</b></font>!
 - *2025.06*: &nbsp;🎊 Our work MedAligner has been accepted by <font color="#DC143C"><b>The Innovation</b> (IF: 33.2)</font> ! MedAligner demonstrates the potential of Aligner (our NeurIPS 2024 oral work) in the medical domain.
@@ -269,7 +269,7 @@ Some thoughts on AI Alignment and Cognitive Reasoning
 
 - *2023.05 - Present*, [PAIR Lab: PKU Alignment and Interaction Research Lab](https://pair-lab.com/)
   
-  Research Intern
+  [PKU-Alignment Group](https://pku-alignment.group/), Research Intern
   
   Advisor: Prof. [Yaodong Yang](https://www.yangyaodong.com/) at [Institute for AI, Peking University](https://www.ai.pku.edu.cn/)
 
