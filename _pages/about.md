@@ -229,6 +229,15 @@ Jiaming Ji<sup>*</sup>, Jiayi Zhou<sup>*</sup>, Hantao Lou<sup>*</sup>, **Boyuan
 # Honors and Awards
 
 - *2025* <span style="background-color: #FFFF99">May Fourth Scholarship (Highest-level Scholarship for Peking University)</span>
+- *2025* The Huanyu Exploration Award (¥20000 RMB)  
+  <details style="margin-left: 1em; margin-top: 0.3em;">
+    <summary style="color: #666; font-size: 0.85em; cursor: pointer; outline: none;">More Info</summary>
+    <div style="margin-top: 0.5em; padding: 0.8em; background-color: #f8f9fa; border-left: 3px solid #007acc; border-radius: 4px;">
+      <p style="font-size: 0.9em; line-height: 1.5; margin: 0; color: #555;">
+        The Huanyu Exploration Award, established by Peking University alumnus Mr. Xie Huanyu, honors the Yuanpei College philosophy of "Respect Nature, Express Individuality, and Pursue Common Growth." It recognizes students who demonstrate holistic development, intellectual independence, and innovative spirit through academic research, public service, and social practice.
+      </p>
+    </div>
+  </details>
 - *2025* Academic Innovation Award of Peking University
 - *2025* Merit Student of Peking University (Ranked 1st out of 356 in the Academy)
 - *2025* Dean's Scholarship (¥10000 RMB)

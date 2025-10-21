@@ -21,7 +21,7 @@
   ],
   "email_domain": "@stu.pku.edu.cn",
   "homepage": "https://cby-pku.github.io/",
-  "citedby": 1321,
+  "citedby": 1420,
   "publications": {
     "o23sDqkAAAAJ:u5HHmVD_uO8C": {
       "container_type": "Publication",
@@ -32,7 +32,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:u5HHmVD_uO8C",
-      "num_citations": 612,
+      "num_citations": 651,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7559603210189078468",
       "cites_id": [
         "7559603210189078468"
@@ -47,7 +47,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:u-x6o8ySG0sC",
-      "num_citations": 442,
+      "num_citations": 467,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2143607605171939849,6752935002944411308,2685338978195446205",
       "cites_id": [
         "2143607605171939849",
@@ -64,7 +64,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:Tyk-4Ss8FVUC",
-      "num_citations": 116,
+      "num_citations": 126,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16793392278683337139,2651722320844452513",
       "cites_id": [
         "16793392278683337139",
@@ -80,7 +80,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:WF5omc3nYNoC",
-      "num_citations": 91,
+      "num_citations": 101,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=964861840881561808,4726118469638404036",
       "cites_id": [
         "964861840881561808",
@@ -96,7 +96,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:Y0pCki6q_DkC",
-      "num_citations": 17,
+      "num_citations": 20,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8796873568917280090",
       "cites_id": [
         "8796873568917280090"
@@ -111,7 +111,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:IjCSPb-OGe4C",
-      "num_citations": 15,
+      "num_citations": 18,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12813753297175443739,10786931961723243162",
       "cites_id": [
         "12813753297175443739",
@@ -127,7 +127,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:qjMakFHDy7sC",
-      "num_citations": 10,
+      "num_citations": 12,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15193766657926823223",
       "cites_id": [
         "15193766657926823223"
@@ -142,7 +142,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:eQOLeE2rZwMC",
-      "num_citations": 8,
+      "num_citations": 11,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5388117411840480975,9440851480583328350",
       "cites_id": [
         "5388117411840480975",
@@ -158,7 +158,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:LkGwnXOMwfcC",
-      "num_citations": 4,
+      "num_citations": 6,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13313012562657212073",
       "cites_id": [
         "13313012562657212073"
@@ -173,7 +173,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:ufrVoPGSRksC",
-      "num_citations": 3,
+      "num_citations": 4,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14935163745073524171",
       "cites_id": [
         "14935163745073524171"
@@ -183,7 +183,7 @@
       "container_type": "Publication",
       "source": "AUTHOR_PUBLICATION_ENTRY",
       "bib": {
-        "title": "Never Compromise to Vulnerabilities: A Comprehensive Survey on AI Governance",
+        "title": "Never compromise to vulnerabilities: A comprehensive survey on ai governance",
         "pub_year": "2025"
       },
       "filled": false,
@@ -203,7 +203,7 @@
       },
       "filled": false,
       "author_pub_id": "o23sDqkAAAAJ:_FxGoFyzp5QC",
-      "num_citations": 1,
+      "num_citations": 2,
       "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6206563478801997165",
       "cites_id": [
         "6206563478801997165"
@@ -232,15 +232,15 @@
       "num_citations": 0
     }
   },
-  "citedby5y": 1320,
+  "citedby5y": 1419,
   "hindex": 8,
   "hindex5y": 8,
-  "i10index": 7,
-  "i10index5y": 7,
+  "i10index": 8,
+  "i10index5y": 8,
   "cites_per_year": {
     "2023": 43,
-    "2024": 568,
-    "2025": 705
+    "2024": 572,
+    "2025": 798
   },
-  "updated": "2025-09-24 20:10:08.151322"
+  "updated": "2025-10-21 10:38:43.855227"
 }
