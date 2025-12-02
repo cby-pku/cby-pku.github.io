@@ -40,6 +40,7 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 </details>
 
 # News
+- *2025.11*: &nbsp;🌟 We are thrilled to announce the release of the first comprehensive [AI Deception Survey](https://www.arxiv.org/abs/2511.22619)! Our work has been recognized and referenced by the <font color="#DC143C"><b>UN Secretary-General's Scientific Advisory Board (UN SAB)</b></font>, and has received praise from leading scholars <b>Yoshua Bengio</b> and <b>Stuart Russell</b>.
 - *2025.09*: &nbsp;🎉 Three papers have been accepted to NeurIPS 2025! Among them, [InterMT](https://arxiv.org/abs/2505.23950) was selected as a <font color="#DC143C"><b>Spotlight</b> (Top 2.6%)</font>.
 - *2025.09*: &nbsp;🎉 Our work [AI Alignment: A Comprehensive Survey](https://dl.acm.org/doi/10.1145/3770749) has been accepted by <font color="#DC143C"><b>ACM Computing Surveys</b> Impact Factor: 28.0 </font>, (ranked 1/147 in Computer Science Theory & Methods) !
 - *2025.09*: &nbsp;🎙️ We are excited to announce our latest work, **"Shadows of Intelligence: A Comprehensive Survey of AI Deception."** For more details, please visit [here](https://deceptionsurvey.com/).
@@ -190,20 +191,21 @@ You may head for my [Google Scholar profile](https://scholar.google.com/citation
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/deceptionsurvey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Shadow of Intelligence: A Comprehensive Survey on AI Deception](https://deceptionsurvey.com/paper.pdf)
+[AI Deception: Risks, Dynamics, and Controls](https://www.arxiv.org/abs/2511.22619)
 
 
-PKU-Alignment Team and other collaborators<sup>*</sup>, Yaodong Yang<sup>†</sup>
+**Boyuan Chen**<sup>*</sup>, Sitong Fang<sup>*</sup>, Jiaming Ji<sup>*</sup>, Yanxu Zhu<sup>*</sup>, Pengcheng Wen<sup>*</sup>, Jinzhou Wu<sup>*</sup>, ..., Yaodong Yang<sup>†</sup>, Philip Torr , Zhongyuan Wang, Tiejun Huang, Ya-qin Zhang, Hongjiang Zhang, Andrew Yao.
 
-<sub><sup>*</sup> We thank all collaborators from Anthropic, ETH, Oxford, UC Berkeley, Johns Hopkins University, Singapore, SafeAI Forum, and Concordia AI for their valuable feedback. A preprint version will be released soon.</sub>
-
-<strong><span style="color: #DC143C; font-weight: bold;">Beta Version (v2)</span></strong>
+<sub><sup>*</sup> We thank all collaborators for their valuable feedback. Please see [project team](https://www.arxiv.org/abs/2511.22619) for reference</sub>
 
 
-[[**Paper**]](https://deceptionsurvey.com/paper.pdf)
+[[**Paper**]](https://www.arxiv.org/abs/2511.22619)
 [[**Website**]](https://deceptionsurvey.com)
 
-- As intelligence grows, so does its shadow. AI deception—where systems induce false beliefs to secure self-beneficial outcomes—has shifted from a speculative concern to an empirically demonstrated risk across language models, AI agents, and emerging frontier systems. This survey provides a comprehensive and up-to-date overview of the field, defining AI deception through the lens of signaling theory and reviewing empirical studies that highlight its sociotechnical risks. We organize existing research into a **deception cycle** with two components: **emergence**, which analyzes incentive foundations, capability prerequisites (perception, planning, and performing), and contextual triggers such as supervision gaps and distributional shifts; and **treatment**, which encompasses detection methods, evaluation protocols, and mitigation strategies. We conclude by outlining key challenges and future directions, emphasizing the need for integrated technical, community, and governance approaches, and provide a living resource at [www.deceptionsurvey.com](http://www.deceptionsurvey.com)
+
+- As intelligence increases, so does its shadow. AI deception, in which systems induce false beliefs to
+secure self-beneficial outcomes, has evolved from a speculative concern to an empirically demonstrated risk
+across language models, AI agents, and emerging frontier systems. This survey provides a comprehensive and up-to-date overview of the field, defining AI deception through the lens of signaling theory and reviewing empirical studies that highlight its sociotechnical risks. We organize existing research into a **deception cycle** with two components: **emergence**, which analyzes incentive foundations, capability prerequisites (perception, planning, and performing), and contextual triggers such as supervision gaps and distributional shifts; and **treatment**, which encompasses detection methods, evaluation protocols, and mitigation strategies. We conclude by outlining key challenges and future directions, emphasizing the need for integrated technical, community, and governance approaches, and provide a living resource at [www.deceptionsurvey.com](http://www.deceptionsurvey.com)
 </div>
 </div>
 
@@ -228,6 +230,8 @@ Jiaming Ji<sup>*</sup>, Jiayi Zhou<sup>*</sup>, Hantao Lou<sup>*</sup>, **Boyuan
 
 # Honors and Awards
 
+- *2025* The First Taotian Scholarship of Peking University (¥10000 RMB)
+- *2025* The First General Intelligence Scholarship of Peking University (¥5000 RMB)
 - *2025* <span style="background-color: #FFFF99">May Fourth Scholarship (Highest-level Scholarship for Peking University)</span>
 - *2025* The Huanyu Exploration Award (¥20000 RMB)  
   <details style="margin-left: 1em; margin-top: 0.3em;">
