@@ -35,7 +35,7 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 <details>
   <summary>关于我（中文）</summary>
   <p>
-  陈博远，北京大学元培学院人工智能方向本科生，导师为杨耀东老师，研究方向为强化学习、大模型的安全与价值对齐、可扩展监督，曾在计算机顶会NeurIPS发表口头报告、亮点论文等，荣获ACL2025 最佳论文奖，谷歌学术引用累计1400余次，GitHub开源累计获得3.5k+ Star。曾获首批北京市自然科学基金资助（2023年度北京大学人工智能本科生唯一），商汤奖学金（全国仅25位），研究成果及模型被OpenAI 、Meta引用，被新华社、光明日报、MIT Tech Review报道。
+  陈博远，北京大学元培学院人工智能方向本科生，导师为杨耀东老师，研究方向为强化学习、大模型的安全与价值对齐、可扩展监督、前沿安全风险，曾在计算机顶会NeurIPS发表口头报告（前0.45%）、亮点论文等（前2.6%），荣获ACL 2025 最佳论文奖，谷歌学术引用累计1600余次，GitHub开源累计获得4k+ Star。曾获首批北京市自然科学基金资助（2023年度北京大学人工智能本科生唯一），商汤奖学金（全国仅25位），北京大学2025学生年度人物（全校10位）、北京大学五四奖学金（最高学生荣誉）等，研究成果及模型被OpenAI 、Meta引用，被新华社、光明日报、MIT Tech Review报道。受邀参加联合国秘书长科学顾问委员会讨论。
   </p>
 </details>
 
@@ -230,6 +230,7 @@ Jiaming Ji<sup>*</sup>, Jiayi Zhou<sup>*</sup>, Hantao Lou<sup>*</sup>, **Boyuan
 
 # Honors and Awards
 
+- *2025* <span style="background-color: #FFFF99">Person of the Year of Peking University (10 people/year)</span>
 - *2025* The First Taotian Scholarship of Peking University (¥10000 RMB)
 - *2025* The First General Intelligence Scholarship of Peking University (¥5000 RMB)
 - *2025* <span style="background-color: #FFFF99">May Fourth Scholarship (Highest-level Scholarship for Peking University)</span>
@@ -243,7 +244,7 @@ Jiaming Ji<sup>*</sup>, Jiayi Zhou<sup>*</sup>, Hantao Lou<sup>*</sup>, **Boyuan
     </div>
   </details>
 - *2025* Academic Innovation Award of Peking University
-- *2025* Merit Student of Peking University (Ranked 1st out of 356 in the Academy)
+- *2025* Merit Student Pacesetter of Peking University (Ranked 1st out of 356 in the Academy)
 - *2025* Dean's Scholarship (¥10000 RMB)
 - *2025* The Sixth Yuanpei Young Scholar Award
 - *2024* <span style="background-color: #FFFF99">SenseTime Scholarship (25/year in China, 1/25, ¥20000 RMB)</span>
