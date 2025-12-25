@@ -40,7 +40,7 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 </details>
 
 # News
-- *2025.11*: &nbsp;🌟 We are thrilled to announce the release of the first comprehensive [AI Deception Survey](https://www.arxiv.org/abs/2511.22619)! Our work has been recognized and referenced by the <font color="#DC143C"><b>UN Secretary-General's Scientific Advisory Board (UN SAB)</b></font>, and has received praise from leading scholars <b>Yoshua Bengio</b> and <b>Stuart Russell</b>.
+- *2025.11*: &nbsp;🌟 We are thrilled to announce the release of the first comprehensive [AI Deception Report](https://www.arxiv.org/abs/2511.22619)! Our work has been recognized and referenced by the <font color="#DC143C"><b>UN Secretary-General's Scientific Advisory Board (UN SAB)</b></font>, and has received praise from leading scholars <b>Yoshua Bengio</b> and <b>Stuart Russell</b>.
 - *2025.09*: &nbsp;🎉 Three papers have been accepted to NeurIPS 2025! Among them, [InterMT](https://arxiv.org/abs/2505.23950) was selected as a <font color="#DC143C"><b>Spotlight</b> (Top 2.6%)</font>.
 - *2025.09*: &nbsp;🎉 Our work [AI Alignment: A Comprehensive Survey](https://dl.acm.org/doi/10.1145/3770749) has been accepted by <font color="#DC143C"><b>ACM Computing Surveys</b> Impact Factor: 28.0 </font>, (ranked 1/147 in Computer Science Theory & Methods) !
 - *2025.09*: &nbsp;🎙️ We are excited to announce our latest work, **"Shadows of Intelligence: A Comprehensive Survey of AI Deception."** For more details, please visit [here](https://deceptionsurvey.com/).
@@ -74,7 +74,7 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 
 **Boyuan Chen**<sup>*</sup>, Donghai Hong<sup>*</sup>, Jiaming Ji<sup>*</sup>, Jiacheng Zheng, Bowen Dong, Jiayi Zhou, Kaile Wang, Juntao Dai, Xuyao Wang, Wenqi Chen, Qirui Zheng, Wenxin Li, Sirui Han, Yike Guo, and Yaodong Yang<sup>†</sup>
 
-<strong><span style="color: #DC143C; font-weight: bold;">NeurIPS 2025 Spotlight (Top 2.6%)</span></strong>, Dataset & Benchmark Track
+<strong><span style="color: #DC143C; font-weight: bold;">NeurIPS 2025 Spotlight (Top 2.6%)</span></strong>
 
 [[**Project**]](https://pku-intermt.github.io/)
 [[**Paper**]](https://arxiv.org/abs/2505.23950) 
