@@ -18,8 +18,6 @@ body_class: "page--about"
 
 <span class='anchor' id='about-me'></span>
 
-🌟 I am currently fully devoted to an exciting new endeavor — stay tuned. 
-
 I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/), advised by Prof. [Yaodong Yang](https://www.yangyaodong.com/). With over 1,900 Google Scholar citations, my work has been recognized with an ACL Best Paper Award, as well as NeurIPS Oral and Spotlight presentations. My open-source projects have accumulated 4k+ GitHub Stars, with models and datasets downloaded over 700k times by the community.
 
 <details>
@@ -28,6 +26,8 @@ I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei Colle
   陈博远，北京大学元培学院人工智能方向本科生，导师为杨耀东老师，研究方向为强化学习、大模型的安全与价值对齐、可扩展监督、前沿安全风险，曾在计算机顶会NeurIPS发表口头报告（前0.45%）、亮点论文等（前2.6%），荣获ACL 2025 最佳论文奖，谷歌学术引用累计1900余次，GitHub开源累计获得4k+ Star。曾获首批北京市自然科学基金资助（2023年度北京大学人工智能本科生唯一），商汤奖学金（全国仅25位），北京大学2025学生年度人物（全校10位）、北京大学五四奖学金（最高学生荣誉）等，研究成果及模型被OpenAI 、Meta引用，被新华社、光明日报、MIT Tech Review报道。受邀参加联合国秘书长科学顾问委员会讨论。
   </p>
 </details>
+
+🌟 I am currently fully devoted to an exciting new endeavor — stay tuned. 
 
 # Undergraduate Research Overview
 
