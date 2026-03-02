@@ -18,14 +18,19 @@ body_class: "page--about"
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/), advised by Prof. [Yaodong Yang](https://www.yangyaodong.com/).
-My research direction are reinforcement learning, the safety and value alignment of large models (*i.e.*, scalable oversight, deception alignment and super alignment). My current research focuses on the goal of constructing safe and trustworthy AI systems. You can find my <b>cv</b> and <b>research statement</b> [here](https://cby-pku.github.io//files/cv.pdf).
+🌟 I am currently fully devoted to an exciting new endeavor — stay tuned. 
 
-My answers to the [Hamming question](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) (“What are the most important problems [that you should probably work on]?”): 
-<ul>
-<li>How to align systems smarter than humans and how to align them on tasks challenging for human evaluation? (<i>i.e.</i>, <b>scalable oversight</b>)</li>
-<li>How can we integrate theory and experimental validation to embed moral values into AI systems? (<i>e.g.</i>, <b>moral reflection</b> and <b>moral progress</b>) and address the AI alignment problem from a <b>socio-technical</b> perspective.</li>
-</ul> 
+I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/), advised by Prof. [Yaodong Yang](https://www.yangyaodong.com/). With over 1,900 Google Scholar citations, my work has been recognized with an ACL Best Paper Award, as well as NeurIPS Oral and Spotlight presentations. My open-source projects have accumulated 4k+ GitHub Stars, with models and datasets downloaded over 700k times by the community.
+
+# Undergraduate Research Overview
+
+Throughout my undergraduate research, I have focused on reinforcement learning, the safety and value alignment of large models (*i.e.*, scalable oversight, deception alignment, and super alignment), with the overarching goal of constructing capable, autonomous, safe, and trustworthy AI systems.
+
+<div style="text-align: center; margin: 1.5em 0;">
+  <img src="files/research_statement.png" alt="Research Statement" style="max-width: 100%; border-radius: 4px;">
+</div>
+
+My research focuses on two interconnected questions: how to construct capably, safe and trustworthy AI systems, and how to supervise and align superhuman AI systems. The latter is a natural progression of the former and also subsumes it, encompassing both the post-training enhancement of capabilities (*e.g.*, multimodal understanding and generation, and the realization of strong reasoning in systems like o3-level models) and the emergence of novel high-risk failure modes (*e.g.*, deception and alignment faking), along with their underlying mechanisms and potential solutions.
 
 I have just started on this long road, and I will leverage my youth and curiosity to seize more opportunities and time for an in-depth exploration of these problems.
 Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
@@ -35,7 +40,7 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 <details>
   <summary>关于我（中文）</summary>
   <p>
-  陈博远，北京大学元培学院人工智能方向本科生，导师为杨耀东老师，研究方向为强化学习、大模型的安全与价值对齐、可扩展监督、前沿安全风险，曾在计算机顶会NeurIPS发表口头报告（前0.45%）、亮点论文等（前2.6%），荣获ACL 2025 最佳论文奖，谷歌学术引用累计1600余次，GitHub开源累计获得4k+ Star。曾获首批北京市自然科学基金资助（2023年度北京大学人工智能本科生唯一），商汤奖学金（全国仅25位），北京大学2025学生年度人物（全校10位）、北京大学五四奖学金（最高学生荣誉）等，研究成果及模型被OpenAI 、Meta引用，被新华社、光明日报、MIT Tech Review报道。受邀参加联合国秘书长科学顾问委员会讨论。
+  陈博远，北京大学元培学院人工智能方向本科生，导师为杨耀东老师，研究方向为强化学习、大模型的安全与价值对齐、可扩展监督、前沿安全风险，曾在计算机顶会NeurIPS发表口头报告（前0.45%）、亮点论文等（前2.6%），荣获ACL 2025 最佳论文奖，谷歌学术引用累计1900余次，GitHub开源累计获得4k+ Star。曾获首批北京市自然科学基金资助（2023年度北京大学人工智能本科生唯一），商汤奖学金（全国仅25位），北京大学2025学生年度人物（全校10位）、北京大学五四奖学金（最高学生荣誉）等，研究成果及模型被OpenAI 、Meta引用，被新华社、光明日报、MIT Tech Review报道。受邀参加联合国秘书长科学顾问委员会讨论。
   </p>
 </details>
 
@@ -63,8 +68,7 @@ Feel free to reach out! <b>Email</b>: boyuan.chen.byc at gmail dot com
 - *2023.11*: &nbsp;🚀 We release [AI Alignment Survey](https://arxiv.org/abs/2310.19852) and [Alignment Resource Website](https://alignmentsurvey.com/). Welcome to further discussion!
 </details>
 
-<!-- # TODO Add undergraduate research statement -->
-# Publications
+# Undergraduate Publications
 <small><sup>*</sup> denotes equal contribution, <sup>α</sup> denotes core contributors, and <sup>†</sup> denotes corresponding author</small>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/intermt.png' alt="sym" width="100%"></div></div>
@@ -265,9 +269,9 @@ Jiaming Ji<sup>*</sup>, Jiayi Zhou<sup>*</sup>, Hantao Lou<sup>*</sup>, **Boyuan
 
 # Service
 
-- Conference Reviewer for ICCV 2025, ICML 2025, ICLR 2025 (Notable Reviewer), NeurIPS 2025 & 2024, ICLR 2026
-- Workshop Reviewer for ICML 2024 Workshop TiFA
-
+- Conference Reviewer for ICCV 2025, ICML 2025, ICLR 2025 (Notable Reviewer), NeurIPS 2025 & 2024, ICLR 2026, ICML2026, ACL ARR and so on.
+- Workshop Reviewer for ICML 2024 Workshop TiFA, NeurIPS Solar Workshop 
+- Journal Reviewer for PLOS Digital Health and so on
 
 
 # Blogs
