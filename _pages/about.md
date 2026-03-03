@@ -18,7 +18,7 @@ body_class: "page--about"
 
 <span class='anchor' id='about-me'></span>
 
-I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/), advised by Prof. [Yaodong Yang](https://www.yangyaodong.com/). With over 1,900 Google Scholar citations, my work has been recognized with an ACL Best Paper Award, as well as NeurIPS Oral and Spotlight presentations. My open-source projects have accumulated 4k+ GitHub Stars, with models and datasets downloaded over 700k times by the community.
+I am currently working on something incredibly exciting. I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/), advised by Prof. [Yaodong Yang](https://www.yangyaodong.com/). With over 1,900 Google Scholar citations, my work has been recognized with an ACL Best Paper Award, as well as NeurIPS Oral and Spotlight presentations. My open-source projects have accumulated 4k+ GitHub Stars, with models and datasets downloaded over 700k times by the community.
 
 <details>
   <summary>关于我（中文）</summary>
@@ -27,7 +27,7 @@ I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei Colle
   </p>
 </details>
 
-🌟 I am currently fully devoted to an exciting new endeavor — stay tuned. 
+<!-- 🌟 I am currently fully devoted to an exciting new endeavor — stay tuned.  -->
 
 # Undergraduate Research Overview
 
