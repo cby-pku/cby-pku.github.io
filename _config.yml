@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Boyuan Chen"
-  avatar           : "images/bygg.png"
+  avatar           : "/images/bygg.png"
   bio              : "Undergraduate at Yuanpei College, Peking University"
   location         : "Beijing, China"
   employer         :
