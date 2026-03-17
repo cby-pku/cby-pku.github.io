@@ -1,4 +1,19 @@
 <script src="/assets/js/main.min.js"></script>
 
+<script>
+// Open external links in new tab, keep internal links in same tab
+document.addEventListener('DOMContentLoaded', function() {
+  var links = document.querySelectorAll('a[href]');
+  var host = window.location.host;
+  for (var i = 0; i < links.length; i++) {
+    var link = links[i];
+    if (link.hostname && link.hostname !== host) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  }
+});
+</script>
+
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
