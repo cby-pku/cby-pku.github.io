@@ -6,7 +6,7 @@ author_profile: true
 
 # Undergraduate Research Overview
 
-My research centers on **reinforcement learning** and **world models** — I believe RL is not only the key to training game-playing agents, but more fundamentally the core methodology for understanding and pushing the capability frontier of foundation models.
+My research centers on **reinforcement learning** and **world models** — RL is not only the key to training game-playing agents, but more fundamentally the core methodology for understanding and pushing the capability frontier of foundation models.
 
 <div style="text-align: center; margin: 1.5em 0;">
   <img src="/files/research_statement.png" alt="Research Statement" style="max-width: 100%; border-radius: 4px;">
