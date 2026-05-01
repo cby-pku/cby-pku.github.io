@@ -62,7 +62,7 @@ I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei Colle
 
 # Honors and Awards
 - *2026* <span style="background-color: #FFFFCC">May Fourth Medal, Highest Honor for Peking University **(北京大学最高荣誉 五·四奖章)**🎖️</span>
-- *2025* 25 Under 25 AI Entrepreneurs (Youngest winner)
+- *2026* 25 Under 25 AI Entrepreneurs (Youngest winner)
   <details style="margin-left: 1em; margin-top: 0.3em;">
     <summary style="color: #666; font-size: 0.85em; cursor: pointer; outline: none;">More Info</summary>
     <div style="margin-top: 0.5em; padding: 0.8em; background-color: #f8f9fa; border-left: 3px solid #007acc; border-radius: 4px;">
