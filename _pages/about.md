@@ -18,22 +18,42 @@ body_class: "page--about"
 
 <span class='anchor' id='about-me'></span>
 
-🌟 I am currently fully devoted to an exciting new endeavor — stay tuned.
+🌟 I am currently co-founding [**PhysisLab**](mailto:boyuan@physis-ai.com) — building the next-generation World Foundation Model. Stay tuned.
 
-I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/), advised by Prof. [Yaodong Yang](https://www.yangyaodong.com/). With over 2,000 Google Scholar citations, my work has been recognized with an ACL Best Paper Award, as well as NeurIPS Oral and Spotlight presentations. My open-source projects have accumulated 4k+ GitHub Stars, with models and datasets downloaded over 700k times by the community.
+I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/). With over 2,200 Google Scholar citations, my work has been recognized with an ACL Best Paper Award, as well as NeurIPS Oral and Spotlight presentations. My open-source projects have accumulated 4k+ GitHub Stars, with models and datasets downloaded over 700k times by the community.
 
+陈博远，北京大学元培学院人工智能方向本科生，研究方向为强化学习、可扩展监督，本科期间以第一作者身份在国际顶级AI会议 NeurIPS、ACL 等发表多篇论文，获 NeurIPS 口头报告（前0.45%）、亮点论文（前2.6%）等，荣获ACL 2025 最佳论文奖，谷歌学术引用累计2200余次，GitHub开源累计获得4k+ Star。获北京大学最高荣誉学生五四奖章、北京大学2025年学生年度人物（全校10位）、商汤奖学金（全国25位）等，获首批北京市自然科学基金资助（2023年度北京大学人工智能本科生唯一），研究成果及模型被OpenAI 、Meta引用，被新华社、光明日报、MIT Tech Review报道。受邀参加联合国秘书长科学顾问委员会讨论。
 
-陈博远，北京大学元培学院人工智能方向本科生，导师为杨耀东老师，研究方向为强化学习、可扩展监督，曾在计算机顶会NeurIPS发表口头报告（前0.45%）、亮点论文等（前2.6%），荣获ACL 2025 最佳论文奖，谷歌学术引用累计2000余次，GitHub开源累计获得4k+ Star。曾获首批北京市自然科学基金资助（2023年度北京大学人工智能本科生唯一），商汤奖学金（全国仅25位），北京大学2025学生年度人物（全校10位）、北京大学五四奖学金（最高学生奖学金）等，研究成果及模型被OpenAI 、Meta引用，被新华社、光明日报、MIT Tech Review报道。受邀参加联合国秘书长科学顾问委员会讨论。
+# PhysisLab
 
+I am the co-founder of **PhysisLab** (Beijing Inverse Matrix Technology Co., Ltd.). We are building the next-generation **World Foundation Model** — a foundation model that truly understands the real physical world and accurately predicts the **Next Physical State**. Our applications span general physical scenarios including industrial simulation, embodied intelligence, autonomous driving, and game physics.
+
+Often referred to as a ["NeoLab,"](https://mp.weixin.qq.com/s/7_gp_uvzrQ1phOLmVE7LOg) we embody the concept of **AI Native** — a young cohort who grew up in the AI era with native intuition for the technology. We bring together young prodigies from top universities and core engineering talent from leading tech companies. Together we hold 10+ International Olympiad gold medals, have been recognized by premier talent programs at leading technology companies, and have published 50+ papers at top-tier conferences including NeurIPS, ICML, and ICLR. We seek to unite people with genuine passion for technology — pursuing fundamental, long-term breakthroughs rather than short-term commercial games.
+
+> *"Recognition of value takes time, but exploration itself is meaningful. We want to start from first principles and push technical breakthroughs to the extreme."*
+
+We are looking for like-minded people to join us.
+
+<p style="font-size: 0.9em; color: #555;">📧 Contact: <a href="mailto:boyuan@physis-ai.com">boyuan@physis-ai.com</a></p>
+
+我是 **PhysisLab**（北京逆矩阵科技有限公司）联合创始人。我们致力于构建下一代**通用世界模型基座（World Foundation Model）**——构建真正理解真实物理世界、准确预测下一个物理状态（Next Physical State Prediction）的基座模型，并应用于通用物理场景，包括但不限于严肃工业场景、具身智能、自动驾驶、游戏物理等。
+
+外界称我们为["NeoLab"](https://mp.weixin.qq.com/s/7_gp_uvzrQ1phOLmVE7LOg)，代表着**"AI新生代"（AI Native）**的概念——在AI时代成长起来、对技术有原生直觉的年轻群体。我们凝聚了国内外高校的“天才少年”和产业界头部科技的核心工程人才。团队超过10枚国际奥赛金牌，核心成员先后获得国内外头部科技企业顶尖人才计划认可，在国际顶级会议 NeurIPS、ICML、ICLR 等发表50+论文。我们希望凝聚一帮真正有技术热情的人，做底层长期主义核心突破而非浮躁的商业游戏。
+
+> *"价值的认可需要时间，但探索本身就有意义。我们想从第一性原理出发，把技术突破做到极致。"*
+
+我们正在寻找志同道合的伙伴。
+
+<p style="font-size: 0.9em; color: #555;">📧 联系方式：<a href="mailto:boyuan@physis-ai.com">boyuan@physis-ai.com</a></p>
 
 
 # Honors and Awards
-
-- *2025* <span style="background-color: #FFFF99">Person of the Year of Peking University (10 people/year)</span>
-- *2025* The First Taotian Scholarship of Peking University (¥10000 RMB)
-- *2025* The First General Intelligence Scholarship of Peking University (¥5000 RMB)
-- *2025* <span style="background-color: #FFFF99">May Fourth Scholarship (Highest-level Scholarship for Peking University)</span>
-- *2025* The Huanyu Exploration Award (¥20000 RMB)
+- *2026* <span style="background-color: #FFFFCC">May Fourth Medal, Highest Honor for Peking University **(北京大学最高荣誉 五·四奖章)**🎖️</span>
+- *2025* <span style="background-color: #FFFFCC">Person of the Year of Peking University (10 people/year)</span>
+- *2025* The First Taotian Scholarship of Peking University 
+- *2025* The First General Intelligence Scholarship of Peking University 
+- *2025* <span style="background-color: #FFFFCC">May Fourth Scholarship (Highest-level Scholarship for Peking University)</span>
+- *2025* The Huanyu Exploration Award 
   <details style="margin-left: 1em; margin-top: 0.3em;">
     <summary style="color: #666; font-size: 0.85em; cursor: pointer; outline: none;">More Info</summary>
     <div style="margin-top: 0.5em; padding: 0.8em; background-color: #f8f9fa; border-left: 3px solid #007acc; border-radius: 4px;">
@@ -43,17 +63,18 @@ I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei Colle
     </div>
   </details>
 - *2025* Academic Innovation Award of Peking University
-- *2025* Merit Student Pacesetter of Peking University (Ranked 1st out of 356 in the Academy)
-- *2025* Dean's Scholarship (¥10000 RMB)
+- *2025* Merit Student Pacesetter of Peking University (Ranked 1st in the Academy)
+- *2025* Dean's Scholarship 
 - *2025* The Sixth Yuanpei Young Scholar Award
-- *2024* <span style="background-color: #FFFF99">SenseTime Scholarship (25/year in China, 1/25, ¥20000 RMB)</span>
-- *2024* Yicong Huang Scholarship (research innovation award, ¥8000 RMB)
-- *2024* Research Excellence Award (¥5000 RMB)
-- *2024* Ching-Ling Soong Future Scholarship (¥5000 RMB)
+- *2024* <span style="background-color: #FFFFCC">SenseTime Scholarship (Youngest winner, 25/year in China)</span>
+- *2024* Yicong Huang Scholarship (research innovation award)
+- *2024* Research Excellence Award 
+- *2024* Ching-Ling Soong Future Scholarship 
 - *2024* Beijing Natural Science Foundation for Undergraduate Students (first batch; the sole recipient in the Peking University's intelligence field)
-- *2023* Yicong Huang Scholarship (¥8000 RMB)
-- *2023* Peking University Scholarship (¥4000 RMB)
-- *2023* Peking University Public Service Scholarship (¥2000 RMB)
-- *2022* Peking University Freshman Scholarship (¥10000 RMB)
+- *2023* Yicong Huang Scholarship 
+- *2023* Peking University Scholarship 
+- *2023* Peking University Public Service Scholarship 
+- *2022* Peking University Freshman Scholarship 
+<!-- - *2022* College Entrance Examination (山东省屏蔽生，入选北大元培学院) -->
 
 <a href='https://clustrmaps.com/site/1c03m'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=600&t=n&d=SyBiJ1Ugb-rc6fbLUU-lVXiLkH4XSENzuYg767o06-o&co=2d78ad&ct=ffffff'/></a>
