@@ -67,7 +67,7 @@ I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei Colle
     <summary style="color: #666; font-size: 0.85em; cursor: pointer; outline: none;">More Info</summary>
     <div style="margin-top: 0.5em; padding: 0.8em; background-color: #f8f9fa; border-left: 3px solid #007acc; border-radius: 4px;">
       <p style="font-size: 0.9em; line-height: 1.5; margin: 0; color: #555;">
-        The "25 Under 25" list spotlights young entrepreneurs in the AI-native era, showcasing the emerging force breaking new ground in China's artificial intelligence landscape (该榜单聚焦AI原生时代的年轻创业者，集中展示了我国人工智能领域破浪前行的新生力量). Selected as the youngest winner on the list.
+        The "25 Under 25" list spotlights young entrepreneurs in the AI-native era, showcasing the emerging force breaking new ground in artificial intelligence landscape (该榜单聚焦AI原生时代的年轻创业者，集中展示了人工智能领域破浪前行的新生力量). Selected as the youngest winner on the list.
       </p>
     </div>
   </details>
