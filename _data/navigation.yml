@@ -3,20 +3,17 @@ main:
   - title: "About Me"
     url: /
 
-  - title: "News"
-    url: /news/
-
   - title: "Publications"
     url: /publications/
 
-  - title: "Invited Talks"
-    url: /invited-talks/
+  - title: "Blogs & Talks"
+    url: /blogs/
 
   - title: "Service"
     url: /service/
 
-  - title: "Blogs"
-    url: /blogs/
-
   - title: "Educations"
     url: /educations/
+
+  - title: "News"
+    url: /news/

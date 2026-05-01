@@ -1,10 +1,18 @@
 ---
 permalink: /blogs/
-title: "Blogs"
+title: "Blogs & Invited Talks"
 author_profile: true
 ---
 
-Some thoughts on AI Alignment and Cognitive Reasoning
+## Blogs
+
+Some thoughts on AI Development and Cognitive Reasoning
 - [Intentionality](https://cby-pku.github.io/files/essays/intentionality.pdf), *2024.10*
 - [Abstraction Reasoning](https://cby-pku.github.io/files/essays/abstraction_reasoning.pdf), *2024.09*
 - [Causality](https://cby-pku.github.io/files/essays/causality.pdf), *2024.09*
+
+## Invited Talks
+
+- *2025.02*: DeepSeek-R1 Analysis and Sharing [[Video]](https://www.bilibili.com/video/BV1DJwRevE6d/?spm_id_from=333.999.0.0)
+- *2024.09*: Technical details analysis about OpenAI o1 and Post-Training Scaling Law [[Video]](https://alignmentsurvey.com/talks/) [[Slides]](https://cby-pku.github.io//files/post-training-scaling-final.pdf)
+- *2023.11*: Invited talk about [AI Alignment Survey](https://alignmentsurvey.com/) [[Video]](https://www.bilibili.com/video/BV1rj411L7XH/?spm_id_from=333.999.0.0&vd_source=b1ff6dcfa0111e176021e49d4a0ee142)
