@@ -6,13 +6,13 @@ author_profile: true
 
 # Undergraduate Research Overview
 
-Throughout my undergraduate research, I have focused on reinforcement learning, the safety and value alignment of large models (*i.e.*, scalable oversight, deception alignment, and super alignment), with the overarching goal of constructing capable, autonomous, safe, and trustworthy AI systems.
+My research centers on **reinforcement learning** and **world models** — I believe RL is not only the key to training game-playing agents, but more fundamentally the core methodology for understanding and pushing the capability frontier of foundation models.
 
 <div style="text-align: center; margin: 1.5em 0;">
   <img src="/files/research_statement.png" alt="Research Statement" style="max-width: 100%; border-radius: 4px;">
 </div>
 
-My undergraduate research focuses on two interconnected questions: how to construct capably, safe and trustworthy AI systems, and how to supervise and align superhuman AI systems. The latter is a natural progression of the former and also subsumes it, encompassing both the post-training enhancement of capabilities (*e.g.*, multimodal understanding and generation, and the realization of strong reasoning in systems like o3-level models) and the emergence of novel high-risk failure modes (*e.g.*, deception and alignment faking), along with their underlying mechanisms and potential solutions.
+My work follows two complementary threads under the umbrella of **Reinforcement Learning & Scalable Supervision**: (1) **Supervision** — designing effective reward signals that guide models to acquire the capabilities humans truly need and to understand the real physical world (*e.g.*, multimodal preference learning, multi-turn RLHF, world foundation models); and (2) **Oversight** — establishing safety constraints that keep model behavior controllable and trustworthy as systems scale (*e.g.*, alignment stability, deception detection).
 
 
 

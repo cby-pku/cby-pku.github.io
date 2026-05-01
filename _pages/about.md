@@ -35,7 +35,7 @@ I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei Colle
 
 <p>I am the co-founder of <strong>PhysisLab</strong> (Beijing Inverse Matrix Technology Co., Ltd.). We are building the next-generation <strong>World Foundation Model</strong> — a foundation model that truly understands the real physical world and accurately predicts the <strong>Next Physical State</strong>. Our applications span general physical scenarios including industrial simulation, embodied intelligence, autonomous driving, and game physics.</p>
 
-<p>Often referred to as a <a href="https://mp.weixin.qq.com/s/7_gp_uvzrQ1phOLmVE7LOg">"NeoLab,"</a> we have been characterized as representing the concept of <strong>AI Native</strong> — a young cohort who grew up in the AI era with native intuition for the technology. We bring together young prodigies from top universities and core engineering talent from leading tech companies. Together we hold 10+ International Olympiad gold medals, have been recognized by premier talent programs at leading technology companies, and have published 50+ papers at top-tier conferences including NeurIPS, ICML, and ICLR.</p>
+<p>Often referred to as a <a href="https://mp.weixin.qq.com/s/7_gp_uvzrQ1phOLmVE7LOg">"NeoLab,"</a> the team is seen as representing the concept of <strong>AI Native</strong> — a young cohort who grew up in the AI era with native intuition for the technology. We bring together young prodigies from top universities and core engineering talent from leading tech companies. Together we hold 10+ International Olympiad gold medals, have been recognized by premier talent programs at leading technology companies, and have published 50+ papers at top-tier conferences including NeurIPS, ICML, and ICLR.</p>
 
 <blockquote style="background-color: #FFFFCC; padding: 0.5em 1em; border-left: 4px solid #e6d900; border-radius: 4px;"><em>"Recognition of value takes time, but exploration itself is meaningful. We want to start from first principles and push technical breakthroughs to the extreme."</em></blockquote>
 
@@ -62,7 +62,7 @@ I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei Colle
 
 # Honors and Awards
 - *2026* <span style="background-color: #FFFFCC">May Fourth Medal, Highest Honor for Peking University **(北京大学最高荣誉 五·四奖章)**🎖️</span>
-- *2025* <span style="background-color: #FFFFCC">25 Under 25 AI Entrepreneurs (Youngest winner)</span>
+- *2025* 25 Under 25 AI Entrepreneurs (Youngest winner)
   <details style="margin-left: 1em; margin-top: 0.3em;">
     <summary style="color: #666; font-size: 0.85em; cursor: pointer; outline: none;">More Info</summary>
     <div style="margin-top: 0.5em; padding: 0.8em; background-color: #f8f9fa; border-left: 3px solid #007acc; border-radius: 4px;">
@@ -71,7 +71,6 @@ I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei Colle
       </p>
     </div>
   </details>
--
 - *2025* <span style="background-color: #FFFFCC">Person of the Year of Peking University (10 people/year)</span>
 - *2025* The First Taotian Scholarship of Peking University 
 - *2025* The First General Intelligence Scholarship of Peking University 
