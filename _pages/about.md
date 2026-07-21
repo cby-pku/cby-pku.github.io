@@ -20,11 +20,11 @@ body_class: "page--about"
 
 I am currently doing something meaningful and valuable with a group of like-minded people. Stay tuned.
 
-I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/). With over 2,300 Google Scholar citations, my work has been recognized with an ACL Best Paper Award, as well as NeurIPS Oral and Spotlight presentations. My open-source projects have accumulated 4k+ GitHub Stars, with models and datasets downloaded over 800k times by the community.
+I am a 2026 undergraduate student majoring in Artificial Intelligence at Yuanpei College, [Peking University](https://english.pku.edu.cn/). With over 2,600 Google Scholar citations, my work has been recognized with an ACL Best Paper Award, as well as NeurIPS Oral and Spotlight presentations. My open-source projects have accumulated 4k+ GitHub Stars, with models and datasets downloaded over 800k times by the community.
 
 
 陈博远，北京大学元培学院人工智能方向2026届本科生。研究方向为强化学习、可扩展监督、世界模型。
-本科期间在国际顶级AI会议 NeurIPS、ACL 等发表多篇论文，获 NeurIPS 口头报告（前0.35%）、亮点论文（前2.6%）等，荣获ACL 2025 最佳论文奖，谷歌学术引用累计2300余次。获北京大学最高荣誉学生五四奖章、北京大学2025年学生年度人物（全校10位，唯一人工智能方向本科生）、商汤奖学金（全国25位）等，获首批北京市自然科学基金资助（2023年度北京大学人工智能本科生唯一），研究成果及模型被OpenAI 、Meta引用，被新华社、光明日报、MIT Tech Review、北大官微等多次报道。陈博远作为负责人之一参与制定深圳市人工智能地方标准，受邀参加国家自然科学基金委双清论坛、联合国秘书长科学顾问委员会闭门圆桌。
+本科期间在国际顶级AI会议 NeurIPS、ACL 等发表多篇论文，获 NeurIPS 口头报告（前0.35%）、亮点论文（前2.6%）等，荣获ACL 2025 最佳论文奖，谷歌学术引用累计2600余次。获北京大学最高荣誉学生五四奖章、北京大学2025年学生年度人物（全校10位，唯一人工智能方向本科生）、商汤奖学金（全国25位）等，获首批北京市自然科学基金资助（2023年度北京大学人工智能本科生唯一），研究成果及模型被OpenAI 、Meta引用，被央视新闻、新华社、光明日报、MIT Tech Review、北大官微、北大官网要闻八条等多次报道。陈博远作为负责人之一参与制定深圳市人工智能地方标准，受邀参加国家自然科学基金委双清论坛、联合国秘书长科学顾问委员会闭门圆桌。
 
 
 # Physis 
@@ -36,9 +36,9 @@ I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei Colle
 
 <div id="content-en" style="display:block;">
 
-<p>I am the co-founder of <strong>Physis </strong> (Beijing Inverse Matrix Technology Co., Ltd.). We are building the next-generation <strong>World Foundation Model</strong> — a foundation model that truly understands the real physical world and accurately predicts the <strong>Next Physical State</strong>. Our applications span general physical scenarios including industrial simulation, embodied intelligence, autonomous driving, and game physics.</p>
+<p>I am the co-founder of <strong>Physis</strong> (Beijing Inverse Matrix Technology Co., Ltd.), dedicated to building the foundation for the next-generation <strong>Universal World Model</strong>. The foundational model of the real physical world is not born for a specific scenario, but starts from the fundamental laws of physics, serving all scenarios that need to understand the physical world and more undefined possibilities, including but not limited to embodied intelligence, serious scenarios, scientific predictions, industrial simulations, and more.</p>
 
-<p>Often referred to as a <a href="https://mp.weixin.qq.com/s/7_gp_uvzrQ1phOLmVE7LOg">"NeoLab,"</a> the team is seen as representing the concept of <strong>AI Native</strong> — a young cohort who grew up in the AI era with native intuition for the technology. We bring together young prodigies from top universities and core engineering talent from leading tech companies. Together we hold 10+ International Olympiad gold medals, have been recognized by premier talent programs at leading technology companies, and have published 50+ papers at top-tier conferences including NeurIPS, ICML, and ICLR.</p>
+<p>Often referred to as a <a href="https://mp.weixin.qq.com/s/7_gp_uvzrQ1phOLmVE7LOg">"NeoLab,"</a> the team is seen as representing the concept of <strong>AI Native</strong> — a young cohort who grew up in the AI era with native intuition for the technology. We bring together young prodigies from top universities and core engineering talent from leading tech companies. Together we hold 10+ International Olympiad gold medals, have been recognized by premier talent programs at leading technology companies, and have published 100+ papers at top-tier conferences including NeurIPS, ICML, and ICLR.</p>
 
 <blockquote style="background-color: #FFFFCC; padding: 0.5em 1em; border-left: 4px solid #e6d900; border-radius: 4px;"><em>"Recognition of value takes time, but exploration itself is meaningful. We want to start from first principles and push technical breakthroughs to the extreme."</em></blockquote>
 
@@ -48,9 +48,9 @@ I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei Colle
 
 <div id="content-zh" style="display:none;">
 
-<p>我是 <strong>Physis</strong>（北京逆矩阵科技有限公司）联合创始人。我们致力于构建下一代<strong>通用世界模型基座（World Foundation Model）</strong>——构建真正理解真实物理世界、准确预测下一个物理状态（Next Physical State Prediction）的基座模型，并应用于通用物理场景，包括但不限于严肃工业场景、具身智能、自动驾驶、游戏物理等。</p>
+<p>我是 <strong>Physis</strong>（北京逆矩阵科技有限公司）联合创始人，我们致力于构建下一代<strong>通用世界模型基座（World Foundation Model）</strong>。真实物理世界的基座模型，不是为某一个场景而生，而是从物理最底层的规律出发，服务于一切需要理解物理的场景以及更多尚未被定义的可能，包括但不限于具身智能、严肃场景、科学预测、工业仿真等。</p>
 
-<p>外界称我们为<a href="https://mp.weixin.qq.com/s/7_gp_uvzrQ1phOLmVE7LOg">"NeoLab"</a>，代表着<strong>"AI新生代"（AI Native）</strong>的概念——在AI时代成长起来、对技术有原生直觉的年轻群体。我们凝聚了国内外高校的"天才少年"和产业界头部科技的核心工程人才。团队超过10枚国际奥赛金牌，核心成员先后获得国内外头部科技企业顶尖人才计划认可，在国际顶级会议 NeurIPS、ICML、ICLR 等发表50+论文。</p>
+<p>外界称我们为<a href="https://mp.weixin.qq.com/s/7_gp_uvzrQ1phOLmVE7LOg">"NeoLab"</a>，代表着<strong>"AI新生代"（AI Native）</strong>的概念——在AI时代成长起来、对技术有原生直觉的年轻群体。我们凝聚了国内外高校的"天才少年"和产业界头部科技的核心工程人才。团队超过10枚国际奥赛金牌，核心成员先后获得国内外头部科技企业顶尖人才计划认可，在国际顶级会议 NeurIPS、ICML、ICLR 等发表100+论文。</p>
 
 <blockquote style="background-color: #FFFFCC; padding: 0.5em 1em; border-left: 4px solid #e6d900; border-radius: 4px;"><em>"价值的认可需要时间，但探索本身就有意义。我们想从第一性原理出发，把技术突破做到极致。"</em></blockquote>
 
@@ -59,12 +59,15 @@ I am a senior undergraduate majoring in Artificial Intelligence at Yuanpei Colle
 </div>
 
 <div style="margin-top: 1.2em; padding: 0.8em 1.2em; background: linear-gradient(135deg, #f0f4ff 0%, #e8f4f8 100%); border-radius: 8px; display: inline-block;">
-  <span style="font-size: 1.1em;">📧</span>&nbsp;&nbsp;<a href="mailto:boyuan@physis-ai.com" style="font-weight: 500; color: #007acc; text-decoration: none;">boyuan@physis-ai.com</a>
+  <span style="font-size: 1.1em;">📧</span>&nbsp;&nbsp;<a href="mailto:hr@physis-ai.com" style="font-weight: 500; color: #007acc; text-decoration: none;">hr@physis-ai.com</a>
 </div>
 
 
 # Honors and Awards
 - *2026* <span style="background-color: #FFFFCC">May Fourth Medal, Highest Honor for Peking University **(北京大学最高荣誉 五·四奖章)**🎖️</span>
+- *2026* Outstanding Graduates of Beijing 
+- *2026* Outstanding Graduates of Peking University 
+- *2026* Forbes 30 Under 30 Asia AI  (Youngest winner)
 - *2026* 25 Under 25 AI Entrepreneurs (Youngest winner)
   <details style="margin-left: 1em; margin-top: 0.3em;">
     <summary style="color: #666; font-size: 0.85em; cursor: pointer; outline: none;">More Info</summary>
