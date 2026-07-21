@@ -27,7 +27,7 @@ I am a 2026 undergraduate student majoring in Artificial Intelligence at Yuanpei
 本科期间在国际顶级AI会议 NeurIPS、ACL 等发表多篇论文，获 NeurIPS 口头报告（前0.35%）、亮点论文（前2.6%）等，荣获ACL 2025 最佳论文奖，谷歌学术引用累计2600余次。获北京大学最高荣誉学生五四奖章、北京大学2025年学生年度人物（全校10位，唯一人工智能方向本科生）、商汤奖学金（全国25位）等，获首批北京市自然科学基金资助（2023年度北京大学人工智能本科生唯一），研究成果及模型被OpenAI 、Meta引用，被央视新闻、新华社、光明日报、MIT Tech Review、北大官微、北大官网要闻八条等多次报道。陈博远作为负责人之一参与制定深圳市人工智能地方标准，受邀参加国家自然科学基金委双清论坛、联合国秘书长科学顾问委员会闭门圆桌。
 
 
-# Physis 
+# 逆矩阵（Physis）
 
 <div style="margin-bottom: 1.5em;">
   <span id="tab-en" onclick="document.getElementById('content-en').style.display='block'; document.getElementById('content-zh').style.display='none'; this.style.fontWeight='bold'; this.style.borderBottom='2px solid #007acc'; document.getElementById('tab-zh').style.fontWeight='normal'; document.getElementById('tab-zh').style.borderBottom='none';" style="cursor:pointer; padding: 0.4em 1em; font-weight:bold; border-bottom: 2px solid #007acc;">English</span>

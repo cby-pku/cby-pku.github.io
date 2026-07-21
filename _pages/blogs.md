@@ -6,13 +6,13 @@ author_profile: true
 
 ## Blogs
 
-### An Analysis of OpenAI’s o1 Paradigm from a Reinforcement Learning Perspective
+## An Analysis of OpenAI’s o1 Paradigm from a Reinforcement Learning Perspective
 Written during my sophomore year in September 2024, this was an early attempt to systematically understand the o1 paradigm. I was fortunate that several of its observations were later borne out.
 - [Original Article](https://mp.weixin.qq.com/s/FXGdJA8OyZvLl89rXJiyAQ), *2024.09* 
 
 
 
-### Early thoughts on AI Development and Cognitive Reasoning during the second year of college
+## Early thoughts on AI Development and Cognitive Reasoning during the second year of college
 - [Intentionality](https://cby-pku.github.io/files/essays/intentionality.pdf), *2024.10*
 - [Abstraction Reasoning](https://cby-pku.github.io/files/essays/abstraction_reasoning.pdf), *2024.09*
 - [Causality](https://cby-pku.github.io/files/essays/causality.pdf), *2024.09*
